@@ -814,7 +814,7 @@ const cursos = [
   nome: "Básico de n8n",
   descricao: "Apresenta o n8n para orquestrar fluxos de automação com nós e credenciais; integra APIs, webhooks e filas, com logs, retries e opção de self-host.",
   quantidadeAulas: 24,
-  status: "EM DESENVOLVIMENTO",
+  status: "DISPONÍVEL",
   link: "https://www.youtube.com/watch?v=uALS7KsZas8&list=PLAb52Z2VRX5UQ9GvmDRgEHPLX2fsVUJP7",
   duracaoMinutos: 370
 },
@@ -834,3 +834,4 @@ const cursos = [
 
 
 ];
+
