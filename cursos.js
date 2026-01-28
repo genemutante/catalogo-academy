@@ -98,51 +98,14 @@ const cursos = [
   duracaoMinutos: 125
 },
 
+  
+
 //04 - QA
+
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "ROBOT FRAMEWORK BÁSICO",
-  descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xw2W-5Mk0RbUOykjnixsOk",
-  duracaoMinutos: 277
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "ROBOT FRAMEWORK - TESTES COM API",
-  descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
-  quantidadeAulas: 2,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WgYvfopx_T7vUkshKcpeG6",
-  duracaoMinutos: 83
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "ROBOT FRAMEWORK AVANÇADO",
-  descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U5lpgTn7Dw37WntVBPohiJ",
-  duracaoMinutos: 255
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "ANALISTA DE TESTES x ANALISTA QA",
-  descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V4PMDg7I9hRUMh2UtT5-an",
-  duracaoMinutos: 19
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "CUSTOS DA NÃO QUALIDADE",
+  nome: "1 - CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -152,43 +115,105 @@ const cursos = [
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "ENGENHARIA DE REQUISITOS",
-  descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VReCTBakKdhi7-PWpeyXCZ",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "FERRAMENTAS DA QUALIDADE",
-  descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
-  quantidadeAulas: 24,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xjaj-ZlXnxNIeIoBqSp3t9",
-  duracaoMinutos: 399
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "INTRODUÇÃO AO TESTE DE SOFTWARE",
-  descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WCjyUuHq51jJFw2FsF_v8A",
-  duracaoMinutos: 179
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "QUALIDADE DO INÍCIO AO FIM",
+  nome: "2 - QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
   quantidadeAulas: 6,
   status: "DISPONÍVEL",
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5USfy1EX94D4iz0fQLujAXY",
   duracaoMinutos: 284
 },
+ 
+
+
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "3 - ANALISTA DE TESTES x ANALISTA QA",
+  descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V4PMDg7I9hRUMh2UtT5-an",
+  duracaoMinutos: 19
+},
+  
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "4 - INTRODUÇÃO À CARREIRA DE QA",
+  descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
+  quantidadeAulas: 2,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XbNrKTiW_mVfnenHILB6H2",
+  duracaoMinutos: 60
+},  
+
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "05 - INTRODUÇÃO AO TESTE DE SOFTWARE",
+  descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WCjyUuHq51jJFw2FsF_v8A",
+  duracaoMinutos: 179
+},
+  
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "06 - ROBOT FRAMEWORK BÁSICO",
+  descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xw2W-5Mk0RbUOykjnixsOk",
+  duracaoMinutos: 277
+},
+
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "07 - ROBOT FRAMEWORK AVANÇADO",
+  descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U5lpgTn7Dw37WntVBPohiJ",
+  duracaoMinutos: 255
+},
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "08 - ROBOT FRAMEWORK - TESTES COM API",
+  descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
+  quantidadeAulas: 2,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WgYvfopx_T7vUkshKcpeG6",
+  duracaoMinutos: 83
+},
+
+
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "09 - FERRAMENTAS DA QUALIDADE",
+  descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
+  quantidadeAulas: 24,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xjaj-ZlXnxNIeIoBqSp3t9",
+  duracaoMinutos: 399
+},
+
+{
+  trilha: "04 - QA",
+  subtrilha: "",
+  nome: "10 - ENGENHARIA DE REQUISITOS",
+  descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VReCTBakKdhi7-PWpeyXCZ",
+  duracaoMinutos: 0
+},
+
+
 
 
   
@@ -576,16 +601,7 @@ const cursos = [
   duracaoMinutos: 228
 },
 
-{
-  trilha: "04 - QA",
-  subtrilha: "",
-  nome: "INTRODUÇÃO À CARREIRA DE QA",
-  descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
-  quantidadeAulas: 2,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XbNrKTiW_mVfnenHILB6H2",
-  duracaoMinutos: 60
-},
+
 
 {
   trilha: "Gestão e Liderança",
@@ -848,6 +864,7 @@ const cursos = [
 
 
 ];
+
 
 
 
