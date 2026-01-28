@@ -411,16 +411,7 @@ const cursos = [
 },
 : 
 
-{
-  trilha: "07 - CMMI",
-  subtrilha: "",
-  nome: "01 - PLANO DE MELHORIAS",
-  descricao: "",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://youtu.be/wgqNBqqnz9U?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
-  duracaoMinutos: 4
-},
+
 {
   trilha: "07 - CMMI",
   subtrilha: "",
@@ -448,7 +439,7 @@ const cursos = [
   descricao: "",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
+  link: "https://youtu.be/oOZ-b4AZHTA?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
   duracaoMinutos: 3
 },
 
@@ -1075,6 +1066,7 @@ const cursos = [
 
 
 ];
+
 
 
 
