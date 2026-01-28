@@ -245,7 +245,16 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VgVU56741SAxwfS-30t1Uy",
   duracaoMinutos: 233
 },
-  
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "GIT",
+  descricao: "Ensina a controlar o versionamento de código, do registro de alterações à gestão de branches e colaboração em equipe utilizando Git.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
@@ -256,6 +265,26 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
   duracaoMinutos: 232
 },
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "PACOTE OFFICE",
+  descricao: "Ensina a dominar as ferramentas de produtividade, da edição de documentos e gestão de planilhas à criação de apresentações profissionais.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "PHOTOSHOP",
+  descricao: "Ensina a editar e manipular imagens digitais, do retoque fotográfico e correção de cores à criação de composições visuais profissionais.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
@@ -276,8 +305,6 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
   duracaoMinutos: 1605
 }, 
-
-
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
@@ -884,6 +911,7 @@ const cursos = [
 
 
 ];
+
 
 
 
