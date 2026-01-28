@@ -409,15 +409,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
   duracaoMinutos: 0
 },
-
-07 - CMMI GLOBAL: IMERSÃO NO MODELO  
-07 - CMMI GLOBAL: PLANO DE MELHORIAS  
-07 - CMMI GLOBAL: POLÍTICAS E DIRETRIZES
-07 - CMMI GLOBAL: FUNÇÕES DO GRUPO EPG
-
-
-07 - CMMI TEC: Areas de Prática do Modelo
-07 - CMMI TEC: Ciclo de Vida de Desenv.
+: 
 
 {
   trilha: "07 - CMMI",
@@ -460,7 +452,17 @@ const cursos = [
   duracaoMinutos: 3
 },
 
- 
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "02 - CICLO DE VIDA DE DESENV.",
+  descricao: "",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},
+
 {
   trilha: "07 - CMMI",
   subtrilha: "",
@@ -471,8 +473,6 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
   duracaoMinutos: 158
 },
-
-
 
 
 // 08 - Infraestrutura
@@ -1075,6 +1075,7 @@ const cursos = [
 
 
 ];
+
 
 
 
