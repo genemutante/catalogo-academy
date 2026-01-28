@@ -799,7 +799,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Automação e Integrações (No/Low-Code)",
+  trilha: "Automação",
   subtrilha: "",
   nome: "Básico de Make (Integromat)",
   descricao: "Ensina a criar automações visuais (no-code) conectando apps por gatilhos, webhooks e cenários; agendar rotinas, tratar erros e monitorar execuções.",
@@ -809,7 +809,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Automação e Integrações (No/Low-Code)",
+  trilha: "Automação",
   subtrilha: "",
   nome: "Básico de n8n",
   descricao: "Apresenta o n8n para orquestrar fluxos de automação com nós e credenciais; integra APIs, webhooks e filas, com logs, retries e opção de self-host.",
@@ -819,7 +819,7 @@ const cursos = [
   duracaoMinutos: 370
 },
 {
-  trilha: "Automação e Integrações (No/Low-Code)",
+  trilha: "Automação",
   subtrilha: "",
   nome: "Básico de Manychat",
   descricao: "Mostra como construir chatbots e automações em WhatsApp/Instagram/Facebook para atendimento e marketing, com fluxos, tags, segmentação e integrações.",
@@ -834,6 +834,7 @@ const cursos = [
 
 
 ];
+
 
 
 
