@@ -215,140 +215,199 @@ const cursos = [
 
 
 
+//*********************
 
-  
-
-// Inteligência Artificial
+// 16 - GOVERNANÇA
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "01 - INTELIGÊNCIA ARTIFICIAL - OVERVIEW",
-  descricao:
-    "Introduz conceitos, casos de uso e limites de IA, incluindo modelos, dados e aplicações no negócio.",
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "CMMI BÁSICO",
+  descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
   quantidadeAulas: 5,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V7sCA6o87EJqPNbVUJirzP",
-  duracaoMinutos: 73
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
+  duracaoMinutos: 94
 },
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "02 - LLMS",
-  descricao:
-    "Apresenta os fundamentos dos Large Language Models, como funcionam, para que servem e como são treinados. Explica capacidades, limitações, riscos e aplicações práticas em empresas.",
-  quantidadeAulas: 7,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XEewPq5mOOQqwVUiCsXRx0",
-  duracaoMinutos: 98
-},
-{
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "03 - ENG. DE PROMPT - FUNDAMENTOS",
-  descricao:
-    "Ensina os princípios essenciais da criação de prompts eficazes, explorando estrutura, padrões, boas práticas e formas de obter respostas mais precisas, coerentes e úteis de modelos de IA.",
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "CMMI AVANÇADO",
+  descricao: "Versão aprofundada do CMMI.",
   quantidadeAulas: 23,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WFCmjbrY_nAlkLiNDa5Uni",
-  duracaoMinutos: 90
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
+  duracaoMinutos: 158
 },
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "04 - ENG. DE PROMPT - CASOS DE USO",
-  descricao:
-    "Mostra como aplicar técnicas de prompting em situações reais, incluindo análise de dados, automações, criação de conteúdo, suporte, programação e otimização de fluxos com IA.",
-  quantidadeAulas: 19,
+  trilha: "16 - GOVERNANÇA",
+  nome: "COBIT 2019",
+  descricao: "Apresenta o framework de governança que alinha TI aos objetivos do negócio e mede desempenho de processos.",
+  quantidadeAulas: 8,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U5HAlV0tt43jEwrDgSQYQr",
-  duracaoMinutos: 160
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WfXIu3gvC9nRwR8s16jtVY",
+  duracaoMinutos: 276
 },
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "05 - ENG. DE CONTEXTO - OVERVIEW",
-  descricao:
-    "Introduz o conceito de engenharia de contexto e como organizar instruções, dados e referências para melhorar a qualidade das respostas da IA. Explica exemplos práticos com documentos, históricos e personas.",
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+  descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XhvKIcEgCTU--lpaqkpjVJ",
-  duracaoMinutos: 20
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WrSTe6j2WJ2HvY7DADwzg_",
+  duracaoMinutos: 55
 },
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "06 - ASSISTENTES DE IA",
-  descricao:
-    "Explora como funcionam assistentes inteligentes baseados em IA, sua arquitetura, casos de uso, integrações e como podem apoiar equipes em tarefas operacionais, produtivas e estratégicas.",
-  quantidadeAulas: 2,
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "ITIL - CARREIRAS",
+  descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
+  quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VHmXIkkQ1EntDX6OMSHdik",
-  duracaoMinutos: 27
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U8Dk2_RxAiOJcrx4D4LA5-",
+  duracaoMinutos: 112
 },
 {
-  trilha: "20 - IA",
-  subtrilha: "",
-  nome: "07 - AGENTES DE IA",
-  descricao:
-    "Apresenta o conceito de agentes autônomos, capazes de planejar, decidir e agir com base em objetivos. Mostra aplicações, limites, riscos e oportunidades para automações avançadas em processos e negócios.",
-  quantidadeAulas: 9,
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "ITIL - OVERVIEW",
+  descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
+  quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UU_AqX7FE6A8KpwQ9dwdkj",
-  duracaoMinutos: 180
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X1pD1WSfSw6sEZlr4FUAir",
+  duracaoMinutos: 37
 },
-
-
 {
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "ENGENHARIA DE DADOS",
-  descricao: "Introduz conceitos e ferramentas para coletar, tratar e analisar dados em escala para apoiar decisões.",
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "ITIL 4 FOUNDATION",
+  descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W8Hk75co38n1Gddg0C8oUh",
+  duracaoMinutos: 188
+},
+{
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "NORMA ISO 20000",
+  descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
   quantidadeAulas: 0,
   status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VJcKKAHkSSteltuBLuq9vE",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xp5ItlwNc5KJ_daXtOLPjz",
   duracaoMinutos: 0
 },
 {
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "ESTATÍSTICA BÁSICA",
-  descricao: "Apresenta noções de probabilidade e análise de dados para interpretar resultados e apoiar decisões.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UGx6AwDlXwemCYG4QcjVc7",
-  duracaoMinutos: 155
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "NORMA ISO 27001",
+  descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V_guB_XAHqITdm5wRRECLe",
+  duracaoMinutos: 0
 },
 {
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "MINITAB",
-  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "NORMA ISO 42001",
+  descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
+  duracaoMinutos: 0
+},
+{
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "Portal de Processos Edesoft",
+  descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
+  quantidadeAulas: 64,
+  status: "EM DESENVOLVIMENTO",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
+  duracaoMinutos: 0
+},
+{
+  trilha: "16 - GOVERNANÇA",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
+  descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Wrsm9eNTTwt61DUNCpXqbP",
+  duracaoMinutos: 0
+},
+  
+
+
+// 17 - PROCESSOS
+  {
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Engenharia de Requisitos e Qualidade",
+  nome: "MAPEAMENTO DE PROCESSOS",
+  descricao: "Ensina a representar, analisar e melhorar processos com mapas claros, indicadores e responsabilidades.",
   quantidadeAulas: 5,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
-  duracaoMinutos: 232
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WndJ2NZFe_4xqB4_zGHFQR",
+  duracaoMinutos: 265
 },
 {
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "POWER BI BÁSICO",
-  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
-  quantidadeAulas: 1,
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Engenharia de Requisitos e Qualidade",
+  nome: "MASP & PDCA",
+  descricao: "Apresenta métodos de resolução de problemas na prática: identificar causa raiz, agir e padronizar.",
+  quantidadeAulas: 3,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
-  duracaoMinutos: 72
-},
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "POWER BI AVANÇADO",
-  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
-  quantidadeAulas: 32,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
-  duracaoMinutos: 1605
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Wmf5DTGBMs8g3XD3xHxz0F",
+  duracaoMinutos: 195
 },
 
+{
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Engenharia de Requisitos e Qualidade",
+  nome: "SIX SIGMA WHITE BELT",
+  descricao: "Apresenta fundamentos do Six Sigma e quando aplicar para ganhos rápidos em processos.",
+  quantidadeAulas: 3,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XUT9_O-X5Fv5KPbiVXhjCP",
+  duracaoMinutos: 165
+},
+{
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Engenharia de Requisitos e Qualidade",
+  nome: "SIX SIGMA YELLOW BELT",
+  descricao: "Capacita iniciantes a participar de projetos de melhoria com conceitos e ferramentas essenciais.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WyMCq33m7Q0xRd6va1bBO1",
+  duracaoMinutos: 294
+},
+{
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Engenharia de Requisitos e Qualidade",
+  nome: "SIX SIGMA GREEN BELT",
+  descricao: "Forma especialistas em melhoria contínua com ferramentas estatísticas para redução de variação e defeitos.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WPbwnC22tKCyG6LdrmIZl_",
+  duracaoMinutos: 0
+},
+
+{
+  trilha: "17 - PROCESSOS",
+  subtrilha: "Governança e Melhoria Contínua",
+  nome: "INTRODUÇÃO AO LEAN",
+  descricao: "Apresenta o pensamento enxuto para eliminar desperdícios e melhorar fluxo em áreas técnicas e administrativas.",
+  quantidadeAulas: 3,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V_Q0uqHBpLYzTT6vSBKDxF",
+  duracaoMinutos: 147
+},
+
+
+
+
+//  18 - Desenvolvimento
 {
   trilha: "18 - Desenvolvimento",
   subtrilha: "",
@@ -590,6 +649,178 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X0jfVx9RQbKa2fGr_sP_yG",
   duracaoMinutos: 0
 },
+
+
+  
+
+// 19 - Automação
+{
+  trilha: "19 - Automação",
+  subtrilha: "",
+  nome: "Básico de Make (Integromat)",
+  descricao: "Ensina a criar automações visuais (no-code) conectando apps por gatilhos, webhooks e cenários; agendar rotinas, tratar erros e monitorar execuções.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},
+{
+  trilha: "19 - Automação",
+  subtrilha: "",
+  nome: "Básico de n8n",
+  descricao: "Apresenta o n8n para orquestrar fluxos de automação com nós e credenciais; integra APIs, webhooks e filas, com logs, retries e opção de self-host.",
+  quantidadeAulas: 24,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/watch?v=uALS7KsZas8&list=PLAb52Z2VRX5UQ9GvmDRgEHPLX2fsVUJP7",
+  duracaoMinutos: 370
+},
+{
+  trilha: "19 - Automação",
+  subtrilha: "",
+  nome: "Básico de Manychat",
+  descricao: "Mostra como construir chatbots e automações em WhatsApp/Instagram/Facebook para atendimento e marketing, com fluxos, tags, segmentação e integrações.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}
+
+// 20 - IA
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "01 - INTELIGÊNCIA ARTIFICIAL - OVERVIEW",
+  descricao:
+    "Introduz conceitos, casos de uso e limites de IA, incluindo modelos, dados e aplicações no negócio.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V7sCA6o87EJqPNbVUJirzP",
+  duracaoMinutos: 73
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "02 - LLMS",
+  descricao:
+    "Apresenta os fundamentos dos Large Language Models, como funcionam, para que servem e como são treinados. Explica capacidades, limitações, riscos e aplicações práticas em empresas.",
+  quantidadeAulas: 7,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XEewPq5mOOQqwVUiCsXRx0",
+  duracaoMinutos: 98
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "03 - ENG. DE PROMPT - FUNDAMENTOS",
+  descricao:
+    "Ensina os princípios essenciais da criação de prompts eficazes, explorando estrutura, padrões, boas práticas e formas de obter respostas mais precisas, coerentes e úteis de modelos de IA.",
+  quantidadeAulas: 23,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WFCmjbrY_nAlkLiNDa5Uni",
+  duracaoMinutos: 90
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "04 - ENG. DE PROMPT - CASOS DE USO",
+  descricao:
+    "Mostra como aplicar técnicas de prompting em situações reais, incluindo análise de dados, automações, criação de conteúdo, suporte, programação e otimização de fluxos com IA.",
+  quantidadeAulas: 19,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U5HAlV0tt43jEwrDgSQYQr",
+  duracaoMinutos: 160
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "05 - ENG. DE CONTEXTO - OVERVIEW",
+  descricao:
+    "Introduz o conceito de engenharia de contexto e como organizar instruções, dados e referências para melhorar a qualidade das respostas da IA. Explica exemplos práticos com documentos, históricos e personas.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XhvKIcEgCTU--lpaqkpjVJ",
+  duracaoMinutos: 20
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "06 - ASSISTENTES DE IA",
+  descricao:
+    "Explora como funcionam assistentes inteligentes baseados em IA, sua arquitetura, casos de uso, integrações e como podem apoiar equipes em tarefas operacionais, produtivas e estratégicas.",
+  quantidadeAulas: 2,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VHmXIkkQ1EntDX6OMSHdik",
+  duracaoMinutos: 27
+},
+{
+  trilha: "20 - IA",
+  subtrilha: "",
+  nome: "07 - AGENTES DE IA",
+  descricao:
+    "Apresenta o conceito de agentes autônomos, capazes de planejar, decidir e agir com base em objetivos. Mostra aplicações, limites, riscos e oportunidades para automações avançadas em processos e negócios.",
+  quantidadeAulas: 9,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UU_AqX7FE6A8KpwQ9dwdkj",
+  duracaoMinutos: 180
+},
+
+
+
+
+
+{
+  trilha: "Dados",
+  subtrilha: "",
+  nome: "ENGENHARIA DE DADOS",
+  descricao: "Introduz conceitos e ferramentas para coletar, tratar e analisar dados em escala para apoiar decisões.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VJcKKAHkSSteltuBLuq9vE",
+  duracaoMinutos: 0
+},
+{
+  trilha: "Dados",
+  subtrilha: "",
+  nome: "ESTATÍSTICA BÁSICA",
+  descricao: "Apresenta noções de probabilidade e análise de dados para interpretar resultados e apoiar decisões.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UGx6AwDlXwemCYG4QcjVc7",
+  duracaoMinutos: 155
+},
+{
+  trilha: "Dados",
+  subtrilha: "",
+  nome: "MINITAB",
+  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
+  duracaoMinutos: 232
+},
+{
+  trilha: "Dados",
+  subtrilha: "",
+  nome: "POWER BI BÁSICO",
+  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
+  duracaoMinutos: 72
+},
+{
+  trilha: "Dados",
+  subtrilha: "",
+  nome: "POWER BI AVANÇADO",
+  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
+  quantidadeAulas: 32,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
+  duracaoMinutos: 1605
+},
+
+
+  
 {
   trilha: "Fundamentos Corporativos",
   subtrilha: "",
@@ -637,137 +868,9 @@ const cursos = [
 
   
 
-{
-  trilha: "04 - QA",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
-  nome: "MAPEAMENTO DE PROCESSOS",
-  descricao: "Ensina a representar, analisar e melhorar processos com mapas claros, indicadores e responsabilidades.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WndJ2NZFe_4xqB4_zGHFQR",
-  duracaoMinutos: 265
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
-  nome: "MASP & PDCA",
-  descricao: "Apresenta métodos de resolução de problemas na prática: identificar causa raiz, agir e padronizar.",
-  quantidadeAulas: 3,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Wmf5DTGBMs8g3XD3xHxz0F",
-  duracaoMinutos: 195
-},
 
-{
-  trilha: "04 - QA",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
-  nome: "SIX SIGMA WHITE BELT",
-  descricao: "Apresenta fundamentos do Six Sigma e quando aplicar para ganhos rápidos em processos.",
-  quantidadeAulas: 3,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XUT9_O-X5Fv5KPbiVXhjCP",
-  duracaoMinutos: 165
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
-  nome: "SIX SIGMA YELLOW BELT",
-  descricao: "Capacita iniciantes a participar de projetos de melhoria com conceitos e ferramentas essenciais.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WyMCq33m7Q0xRd6va1bBO1",
-  duracaoMinutos: 294
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
-  nome: "SIX SIGMA GREEN BELT",
-  descricao: "Forma especialistas em melhoria contínua com ferramentas estatísticas para redução de variação e defeitos.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WPbwnC22tKCyG6LdrmIZl_",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "CMMI BÁSICO",
-  descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
-  duracaoMinutos: 94
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "CMMI AVANÇADO",
-  descricao: "Versão aprofundada do CMMI.",
-  quantidadeAulas: 23,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
-  duracaoMinutos: 158
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "COBIT 2019",
-  descricao: "Apresenta o framework de governança que alinha TI aos objetivos do negócio e mede desempenho de processos.",
-  quantidadeAulas: 8,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WfXIu3gvC9nRwR8s16jtVY",
-  duracaoMinutos: 276
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
-  descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WrSTe6j2WJ2HvY7DADwzg_",
-  duracaoMinutos: 55
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "INTRODUÇÃO AO LEAN",
-  descricao: "Apresenta o pensamento enxuto para eliminar desperdícios e melhorar fluxo em áreas técnicas e administrativas.",
-  quantidadeAulas: 3,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V_Q0uqHBpLYzTT6vSBKDxF",
-  duracaoMinutos: 147
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL - CARREIRAS",
-  descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U8Dk2_RxAiOJcrx4D4LA5-",
-  duracaoMinutos: 112
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL - OVERVIEW",
-  descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X1pD1WSfSw6sEZlr4FUAir",
-  duracaoMinutos: 37
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL 4 FOUNDATION",
-  descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W8Hk75co38n1Gddg0C8oUh",
-  duracaoMinutos: 188
-},
+
+
 {
   trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
@@ -778,92 +881,11 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WELu0yJUvPFMW-rg44hy-0",
   duracaoMinutos: 5
 },
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "NORMA ISO 20000",
-  descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xp5ItlwNc5KJ_daXtOLPjz",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "NORMA ISO 27001",
-  descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V_guB_XAHqITdm5wRRECLe",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "NORMA ISO 42001",
-  descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "Portal de Processos Edesoft",
-  descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
-  quantidadeAulas: 64,
-  status: "EM DESENVOLVIMENTO",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
-  duracaoMinutos: 0
-},
-{
-  trilha: "04 - QA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
-  descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Wrsm9eNTTwt61DUNCpXqbP",
-  duracaoMinutos: 0
-},
-{
-  trilha: "19 - Automação",
-  subtrilha: "",
-  nome: "Básico de Make (Integromat)",
-  descricao: "Ensina a criar automações visuais (no-code) conectando apps por gatilhos, webhooks e cenários; agendar rotinas, tratar erros e monitorar execuções.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "",
-  duracaoMinutos: 0
-},
-{
-  trilha: "19 - Automação",
-  subtrilha: "",
-  nome: "Básico de n8n",
-  descricao: "Apresenta o n8n para orquestrar fluxos de automação com nós e credenciais; integra APIs, webhooks e filas, com logs, retries e opção de self-host.",
-  quantidadeAulas: 24,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/watch?v=uALS7KsZas8&list=PLAb52Z2VRX5UQ9GvmDRgEHPLX2fsVUJP7",
-  duracaoMinutos: 370
-},
-{
-  trilha: "19 - Automação",
-  subtrilha: "",
-  nome: "Básico de Manychat",
-  descricao: "Mostra como construir chatbots e automações em WhatsApp/Instagram/Facebook para atendimento e marketing, com fluxos, tags, segmentação e integrações.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "",
-  duracaoMinutos: 0
-}
-
-
 
 
 
 ];
+
 
 
 
