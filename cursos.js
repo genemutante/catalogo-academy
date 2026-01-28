@@ -599,7 +599,7 @@ const cursos = [
 // 15 - PROCESSOS
   {
   trilha: "15 - Processos",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "01 - MAPEAMENTO DE PROCESSOS",
   descricao: "Ensina a representar, analisar e melhorar processos com mapas claros, indicadores e responsabilidades.",
   quantidadeAulas: 5,
@@ -609,7 +609,7 @@ const cursos = [
 },
 {
   trilha: "15 - Processos",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "02 - MASP & PDCA",
   descricao: "Apresenta métodos de resolução de problemas na prática: identificar causa raiz, agir e padronizar.",
   quantidadeAulas: 3,
@@ -620,7 +620,7 @@ const cursos = [
 
 {
   trilha: "15 - Processos",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "03 - SIX SIGMA WHITE BELT",
   descricao: "Apresenta fundamentos do Six Sigma e quando aplicar para ganhos rápidos em processos.",
   quantidadeAulas: 3,
@@ -630,7 +630,7 @@ const cursos = [
 },
 {
   trilha: "15 - Processos",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "04 - SIX SIGMA YELLOW BELT",
   descricao: "Capacita iniciantes a participar de projetos de melhoria com conceitos e ferramentas essenciais.",
   quantidadeAulas: 5,
@@ -640,7 +640,7 @@ const cursos = [
 },
 {
   trilha: "15 - Processos",
-  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "05 - SIX SIGMA GREEN BELT",
   descricao: "Forma especialistas em melhoria contínua com ferramentas estatísticas para redução de variação e defeitos.",
   quantidadeAulas: 0,
@@ -1061,6 +1061,7 @@ const cursos = [
 
 
 ];
+
 
 
 
