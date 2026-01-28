@@ -359,7 +359,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Desenvolvimento Pessoal e Estratégico",
+  trilha: "Desenvolvimento Pessoal",
   subtrilha: "",
   nome: "METODOLOGIA DISC",
   descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
@@ -501,7 +501,7 @@ const cursos = [
 {
   trilha: "Outsourcing",
   subtrilha: "",
-  nome: "GESTÃO ÁGIL DE PROJETOS COM SCRUM",
+  nome: "FRAMEWORK SCRUM",
   descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -834,6 +834,7 @@ const cursos = [
 
 
 ];
+
 
 
 
