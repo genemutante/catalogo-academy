@@ -317,29 +317,57 @@ const cursos = [
 },
 
 
-
-//*********************
-
-// 16 - GOVERNANÇA
+  
+// 06 - GOVERNANÇA
 {
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "CMMI BÁSICO",
-  descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
-  quantidadeAulas: 5,
+  trilha: "06 - Governança",
+  subtrilha: "",
+  nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
+  descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
+  quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
-  duracaoMinutos: 94
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XRDInGzi0f7j1W5CSj2Qpa",
+  duracaoMinutos: 47
 },
 {
   trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "CMMI AVANÇADO",
-  descricao: "Versão aprofundada do CMMI.",
-  quantidadeAulas: 23,
+  subtrilha: "",
+  nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+  descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
+  quantidadeAulas: 1,
   status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
-  duracaoMinutos: 158
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WrSTe6j2WJ2HvY7DADwzg_",
+  duracaoMinutos: 55
+},
+{
+  trilha: "06 - GOVERNANÇA",
+  subtrilha: "",
+  nome: "ITIL - OVERVIEW",
+  descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X1pD1WSfSw6sEZlr4FUAir",
+  duracaoMinutos: 37
+},
+{
+  trilha: "06 - GOVERNANÇA",
+  subtrilha: "",
+  nome: "ITIL - CARREIRAS",
+  descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U8Dk2_RxAiOJcrx4D4LA5-",
+  duracaoMinutos: 112
+},
+{
+  trilha: "06 - GOVERNANÇA",
+  subtrilha: "",
+  nome: "ITIL 4 FOUNDATION",
+  descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W8Hk75co38n1Gddg0C8oUh",
+  duracaoMinutos: 188
 },
 {
   trilha: "06 - GOVERNANÇA",
@@ -350,49 +378,10 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WfXIu3gvC9nRwR8s16jtVY",
   duracaoMinutos: 276
 },
+
 {
   trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
-  descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WrSTe6j2WJ2HvY7DADwzg_",
-  duracaoMinutos: 55
-},
-{
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL - CARREIRAS",
-  descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5U8Dk2_RxAiOJcrx4D4LA5-",
-  duracaoMinutos: 112
-},
-{
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL - OVERVIEW",
-  descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X1pD1WSfSw6sEZlr4FUAir",
-  duracaoMinutos: 37
-},
-{
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "ITIL 4 FOUNDATION",
-  descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W8Hk75co38n1Gddg0C8oUh",
-  duracaoMinutos: 188
-},
-{
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "NORMA ISO 20000",
   descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
   quantidadeAulas: 0,
@@ -402,7 +391,7 @@ const cursos = [
 },
 {
   trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "NORMA ISO 27001",
   descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
   quantidadeAulas: 0,
@@ -412,7 +401,7 @@ const cursos = [
 },
 {
   trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "NORMA ISO 42001",
   descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
   quantidadeAulas: 0,
@@ -420,10 +409,34 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
   duracaoMinutos: 0
 },
+  
+
+  
 {
-  trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
-  nome: "Portal de Processos Edesoft",
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "CMMI BÁSICO",
+  descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
+  duracaoMinutos: 94
+},
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "CMMI AVANÇADO",
+  descricao: "Versão aprofundada do CMMI.",
+  quantidadeAulas: 23,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
+  duracaoMinutos: 158
+},
+
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "POLÍTICAS E DIRETRIZES",
   descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
   quantidadeAulas: 64,
   status: "EM DESENVOLVIMENTO",
@@ -432,7 +445,7 @@ const cursos = [
 },
 {
   trilha: "06 - GOVERNANÇA",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
   descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
   quantidadeAulas: 0,
@@ -498,7 +511,7 @@ const cursos = [
 
 {
   trilha: "17 - PROCESSOS",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "INTRODUÇÃO AO LEAN",
   descricao: "Apresenta o pensamento enxuto para eliminar desperdícios e melhorar fluxo em áreas técnicas e administrativas.",
   quantidadeAulas: 3,
@@ -899,7 +912,7 @@ const cursos = [
 
 {
   trilha: "99 - DIVERSOS",
-  subtrilha: "Governança e Melhoria Contínua",
+  subtrilha: "",
   nome: "MINI CURSO CHECKLIST DO GESTOR",
   descricao: "Apresenta um checklist prático para líderes acompanharem rotinas, qualidade e resultados da equipe.",
   quantidadeAulas: 1,
@@ -911,6 +924,7 @@ const cursos = [
 
 
 ];
+
 
 
 
