@@ -3,7 +3,7 @@ const cursos = [
 
   // Exemplos adicionais (você pode apagar se quiser deixar só a planilha)
 {
-  trilha: "Cultura e Identidade Edesoft",
+  trilha: "Onboarding",
   subtrilha: "",
   nome: "IMAGEM & ESTILO",
   descricao: "Orienta sobre postura, vestimenta e comportamento profissional, reforçando a importância da imagem pessoal e corporativa em clientes e ambientes de trabalho.",
@@ -13,7 +13,7 @@ const cursos = [
   duracaoMinutos: 38
 },
 {
-  trilha: "Cultura e Identidade Edesoft",
+  trilha: "Onboarding",
   subtrilha: "",
   nome: "PROGRAMAS EDESOFT",
   descricao: "Apresenta projetos e iniciativas internas da Edesoft voltados ao desenvolvimento, reconhecimento e engajamento dos colaboradores.",
@@ -23,7 +23,7 @@ const cursos = [
   duracaoMinutos: 13
 },
 {
-  trilha: "Cultura e Identidade Edesoft",
+  trilha: "Onboarding",
   subtrilha: "",
   nome: "ROTINAS INTERNAS EDESOFT",
   descricao: "Explica as regras e boas práticas do dia a dia na empresa, como horários, pausas, comunicação interna e conduta organizacional.",
@@ -834,4 +834,5 @@ const cursos = [
 
 
 ];
+
 
