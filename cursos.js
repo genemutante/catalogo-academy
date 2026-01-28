@@ -1032,7 +1032,7 @@ const cursos = [
 
 
 {
-  trilha: "99 - DIVERSOS",
+  trilha: "99 - Diversos",
   subtrilha: "",
   nome: "MINI CURSO CHECKLIST DO GESTOR",
   descricao: "Apresenta um checklist prático para líderes acompanharem rotinas, qualidade e resultados da equipe.",
@@ -1045,6 +1045,7 @@ const cursos = [
 
 
 ];
+
 
 
 
