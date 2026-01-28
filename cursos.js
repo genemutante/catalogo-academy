@@ -458,8 +458,8 @@ const cursos = [
   subtrilha: "",
   nome: "05 - CMMI BÁSICO - IMERSÃO NO MODELO",
   descricao: "Oferece uma imersão no modelo CMMI, capacitando o colaborador a entender profundamente suas práticas e benefícios.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
   link: "https://youtu.be/YZgvIPEiHHo?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
   duracaoMinutos: 33
 },
@@ -1075,6 +1075,7 @@ const cursos = [
 
 
 ];
+
 
 
 
