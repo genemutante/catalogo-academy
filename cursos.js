@@ -409,10 +409,10 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
   duracaoMinutos: 0
 },
-: 
 
-
-{
+  
+  
+  {
   trilha: "07 - CMMI",
   subtrilha: "",
   nome: "01 - PLANO DE MELHORIAS",
@@ -1066,6 +1066,7 @@ const cursos = [
 
 
 ];
+
 
 
 
