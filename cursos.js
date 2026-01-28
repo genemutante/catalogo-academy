@@ -69,37 +69,6 @@ const cursos = [
 {
   trilha: "03 - Outsourcing",
   subtrilha: "",
-  nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
-  descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XRDInGzi0f7j1W5CSj2Qpa",
-  duracaoMinutos: 47
-},
-{
-  trilha: "03 - Outsourcing",
-  subtrilha: "",
-  nome: "FRAMEWORK SCRUM",
-  descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UNg8ksTTNwzEz7GqDfK-c1",
-  duracaoMinutos: 0
-},
-{
-  trilha: "03 - Outsourcing",
-  subtrilha: "",
-  nome: "LÓGICA DE PROGRAMAÇÃO",
-  descricao: "Apresenta a lógica de programação para resolver problemas passo a passo, base de qualquer linguagem e raciocínio computacional.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VfuBoZwA3nqiKBjxSYQjug",
-  duracaoMinutos: 0
-},
-
-{
-  trilha: "03 - Outsourcing",
-  subtrilha: "",
   nome: "LOGÍSTICA RODOVIÁRIA",
   descricao: "Apresenta fundamentos do transporte de cargas, etapas, documentos e desafios de operação logística.",
   quantidadeAulas: 3,
@@ -893,6 +862,7 @@ const cursos = [
 
 
 ];
+
 
 
 
