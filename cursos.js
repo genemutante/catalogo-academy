@@ -57,7 +57,7 @@ const cursos = [
 
 //03 - Outsourcing
 {
-  trilha: "Outsourcing",
+  trilha: "03 - Outsourcing",
   subtrilha: "",
   nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
   descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
@@ -67,7 +67,7 @@ const cursos = [
   duracaoMinutos: 47
 },
 {
-  trilha: "Outsourcing",
+  trilha: "03 - Outsourcing",
   subtrilha: "",
   nome: "FRAMEWORK SCRUM",
   descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
@@ -841,6 +841,7 @@ const cursos = [
 
 
 ];
+
 
 
 
