@@ -5,7 +5,7 @@ const cursos = [
 {
   trilha: "01 - Onboarding",
   subtrilha: "",
-  nome: "IMAGEM & ESTILO",
+  nome: "01 - IMAGEM & ESTILO",
   descricao: "Orienta sobre postura, vestimenta e comportamento profissional, reforçando a importância da imagem pessoal e corporativa em clientes e ambientes de trabalho.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -15,7 +15,7 @@ const cursos = [
 {
   trilha: "01 - Onboarding",
   subtrilha: "",
-  nome: "PROGRAMAS EDESOFT",
+  nome: "02 - PROGRAMAS EDESOFT",
   descricao: "Apresenta projetos e iniciativas internas da Edesoft voltados ao desenvolvimento, reconhecimento e engajamento dos colaboradores.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -25,7 +25,7 @@ const cursos = [
 {
   trilha: "01 - Onboarding",
   subtrilha: "",
-  nome: "ROTINAS INTERNAS EDESOFT",
+  nome: "03 - ROTINAS INTERNAS EDESOFT",
   descricao: "Explica as regras e boas práticas do dia a dia na empresa, como horários, pausas, comunicação interna e conduta organizacional.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -883,6 +883,7 @@ const cursos = [
 
 
 ];
+
 
 
 
