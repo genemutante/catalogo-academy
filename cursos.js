@@ -379,7 +379,7 @@ const cursos = [
   duracaoMinutos: 703
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "AWS",
   descricao: "Mostra como usar a nuvem da Amazon para hospedar, escalar e proteger sistemas corporativos com boas práticas.",
@@ -389,7 +389,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "AZURE DEVOPS",
   descricao: "Ensina a planejar e automatizar entregas de software usando a plataforma DevOps da Microsoft no Azure.",
@@ -409,7 +409,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "DOCKER",
   descricao: "Ensina a empacotar e publicar aplicações em containers, facilitando implantação e padronização de ambientes.",
@@ -419,7 +419,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "GIT",
   descricao: "Ensina versionamento de código, branches e colaboração segura usando Git em equipes de desenvolvimento.",
@@ -429,7 +429,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "MENSAGERIA",
   descricao: "Explica troca de mensagens entre sistemas (fila, tópico, ACK), garantindo integração confiável.",
@@ -834,6 +834,7 @@ const cursos = [
 
 
 ];
+
 
 
 
