@@ -215,6 +215,81 @@ const cursos = [
 
 
 
+  // 05 - Ferramentas Digitais  
+{
+  trilha: "05 - Ferramentas Digitais",
+  subtrilha: "",
+  nome: "MINITAB",
+  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
+  duracaoMinutos: 232
+},
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "POWER BI BÁSICO",
+  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
+  duracaoMinutos: 72
+},
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "POWER BI AVANÇADO",
+  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
+  quantidadeAulas: 32,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
+  duracaoMinutos: 1605
+}, 
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "BIZAGI",
+  descricao: "Introduz a modelagem de processos no Bizagi para mapear fluxos, descobrir gargalos e padronizar rotinas.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VwZAFmQ4Nf33qZr-nCgVav",
+  duracaoMinutos: 228
+},
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "CLICKUP",
+  descricao: "Apresenta o ClickUp para organizar tarefas, sprints e projetos, dando visibilidade de prazos e responsáveis.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X9xCRF11qJ_vhCXWNn2aOJ",
+  duracaoMinutos: 0
+},
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "FIGMA",
+  descricao: "Ensina a prototipar telas e fluxos no Figma para validar ideias com usuários antes do desenvolvimento.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VgVU56741SAxwfS-30t1Uy",
+  duracaoMinutos: 233
+},
+
+{
+  trilha: "Ferramentas Digitais",
+  subtrilha: "",
+  nome: "TRELLO",
+  descricao: "Ensina a organizar tarefas e projetos no Trello usando quadros, listas, cartões e checklists.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W4ML5zhWD9llNzmZCyyGxp",
+  duracaoMinutos: 0
+},
+
+
+
 //*********************
 
 // 16 - GOVERNANÇA
@@ -788,83 +863,6 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UGx6AwDlXwemCYG4QcjVc7",
   duracaoMinutos: 155
 },
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "MINITAB",
-  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
-  duracaoMinutos: 232
-},
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "POWER BI BÁSICO",
-  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
-  duracaoMinutos: 72
-},
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "POWER BI AVANÇADO",
-  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
-  quantidadeAulas: 32,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
-  duracaoMinutos: 1605
-},
-
-
-  
-{
-  trilha: "Fundamentos Corporativos",
-  subtrilha: "",
-  nome: "BIZAGI",
-  descricao: "Introduz a modelagem de processos no Bizagi para mapear fluxos, descobrir gargalos e padronizar rotinas.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VwZAFmQ4Nf33qZr-nCgVav",
-  duracaoMinutos: 228
-},
-
-
-
-{
-  trilha: "Gestão e Liderança",
-  subtrilha: "",
-  nome: "CLICKUP",
-  descricao: "Apresenta o ClickUp para organizar tarefas, sprints e projetos, dando visibilidade de prazos e responsáveis.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X9xCRF11qJ_vhCXWNn2aOJ",
-  duracaoMinutos: 0
-},
-{
-  trilha: "Gestão e Liderança",
-  subtrilha: "",
-  nome: "FIGMA",
-  descricao: "Ensina a prototipar telas e fluxos no Figma para validar ideias com usuários antes do desenvolvimento.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VgVU56741SAxwfS-30t1Uy",
-  duracaoMinutos: 233
-},
-
-{
-  trilha: "Gestão e Liderança",
-  subtrilha: "",
-  nome: "TRELLO",
-  descricao: "Ensina a organizar tarefas e projetos no Trello usando quadros, listas, cartões e checklists.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W4ML5zhWD9llNzmZCyyGxp",
-  duracaoMinutos: 0
-},
 
   
 
@@ -885,6 +883,7 @@ const cursos = [
 
 
 ];
+
 
 
 
