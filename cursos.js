@@ -105,7 +105,7 @@ const cursos = [
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "1 - CUSTOS DA NÃO QUALIDADE",
+  nome: "01 - CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -115,7 +115,7 @@ const cursos = [
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "2 - QUALIDADE DO INÍCIO AO FIM",
+  nome: "02 - QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
   quantidadeAulas: 6,
   status: "DISPONÍVEL",
@@ -128,7 +128,7 @@ const cursos = [
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "3 - ANALISTA DE TESTES x ANALISTA QA",
+  nome: "03 - ANALISTA DE TESTES x ANALISTA QA",
   descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -139,7 +139,7 @@ const cursos = [
 {
   trilha: "04 - QA",
   subtrilha: "",
-  nome: "4 - INTRODUÇÃO À CARREIRA DE QA",
+  nome: "04 - INTRODUÇÃO À CARREIRA DE QA",
   descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
   quantidadeAulas: 2,
   status: "DISPONÍVEL",
@@ -864,6 +864,7 @@ const cursos = [
 
 
 ];
+
 
 
 
