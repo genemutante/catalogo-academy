@@ -227,7 +227,7 @@ const cursos = [
   duracaoMinutos: 232
 },
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "POWER BI BÁSICO",
   descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
@@ -237,7 +237,7 @@ const cursos = [
   duracaoMinutos: 72
 },
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "POWER BI AVANÇADO",
   descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
@@ -247,7 +247,7 @@ const cursos = [
   duracaoMinutos: 1605
 }, 
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "BIZAGI",
   descricao: "Introduz a modelagem de processos no Bizagi para mapear fluxos, descobrir gargalos e padronizar rotinas.",
@@ -257,7 +257,7 @@ const cursos = [
   duracaoMinutos: 228
 },
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "CLICKUP",
   descricao: "Apresenta o ClickUp para organizar tarefas, sprints e projetos, dando visibilidade de prazos e responsáveis.",
@@ -267,7 +267,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "FIGMA",
   descricao: "Ensina a prototipar telas e fluxos no Figma para validar ideias com usuários antes do desenvolvimento.",
@@ -278,7 +278,7 @@ const cursos = [
 },
 
 {
-  trilha: "Ferramentas Digitais",
+  trilha: "05 - Ferramentas Digitais",
   subtrilha: "",
   nome: "TRELLO",
   descricao: "Ensina a organizar tarefas e projetos no Trello usando quadros, listas, cartões e checklists.",
@@ -883,6 +883,7 @@ const cursos = [
 
 
 ];
+
 
 
 
