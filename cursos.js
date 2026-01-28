@@ -101,7 +101,7 @@ const cursos = [
 //04 - QA
 {
   trilha: "04 - QA",
-  //subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "ROBOT FRAMEWORK BÁSICO",
   descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
   quantidadeAulas: 5,
@@ -111,7 +111,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
- // subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "ROBOT FRAMEWORK - TESTES COM API",
   descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
   quantidadeAulas: 2,
@@ -121,7 +121,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
- // subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "ROBOT FRAMEWORK AVANÇADO",
   descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
   quantidadeAulas: 5,
@@ -131,7 +131,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "ANALISTA DE TESTES x ANALISTA QA",
   descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
   quantidadeAulas: 1,
@@ -141,7 +141,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
   quantidadeAulas: 1,
@@ -151,7 +151,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "ENGENHARIA DE REQUISITOS",
   descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
   quantidadeAulas: 0,
@@ -161,7 +161,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "FERRAMENTAS DA QUALIDADE",
   descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
   quantidadeAulas: 24,
@@ -171,7 +171,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "INTRODUÇÃO AO TESTE DE SOFTWARE",
   descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
   quantidadeAulas: 5,
@@ -181,7 +181,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-//  subtrilha: "Engenharia de Requisitos e Qualidade",
+  subtrilha: "",
   nome: "QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
   quantidadeAulas: 6,
@@ -848,6 +848,7 @@ const cursos = [
 
 
 ];
+
 
 
 
