@@ -104,7 +104,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "01 - CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
   quantidadeAulas: 1,
@@ -114,7 +114,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "02 - QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
   quantidadeAulas: 6,
@@ -127,7 +127,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "03 - ANALISTA DE TESTES x ANALISTA QA",
   descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
   quantidadeAulas: 1,
@@ -138,7 +138,7 @@ const cursos = [
   
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "04 - INTRODUÇÃO À CARREIRA DE QA",
   descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
   quantidadeAulas: 2,
@@ -149,7 +149,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "05 - INTRODUÇÃO AO TESTE DE SOFTWARE",
   descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
   quantidadeAulas: 5,
@@ -160,7 +160,7 @@ const cursos = [
   
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "06 - ROBOT FRAMEWORK BÁSICO",
   descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
   quantidadeAulas: 5,
@@ -171,7 +171,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "07 - ROBOT FRAMEWORK AVANÇADO",
   descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
   quantidadeAulas: 5,
@@ -181,7 +181,7 @@ const cursos = [
 },
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "08 - ROBOT FRAMEWORK - TESTES COM API",
   descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
   quantidadeAulas: 2,
@@ -193,7 +193,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "TESTES",
+  subtrilha: "",
   nome: "09 - FERRAMENTAS DA QUALIDADE",
   descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
   quantidadeAulas: 24,
@@ -204,7 +204,7 @@ const cursos = [
 
 {
   trilha: "04 - QA",
-  subtrilha: "REQUISITOS",
+  subtrilha: "",
   nome: "10 - ENGENHARIA DE REQUISITOS",
   descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
   quantidadeAulas: 0,
@@ -872,7 +872,7 @@ const cursos = [
 
 
 {
-  trilha: "04 - QA",
+  trilha: "99 - DIVERSOS",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "MINI CURSO CHECKLIST DO GESTOR",
   descricao: "Apresenta um checklist prático para líderes acompanharem rotinas, qualidade e resultados da equipe.",
@@ -885,6 +885,7 @@ const cursos = [
 
 
 ];
+
 
 
 
