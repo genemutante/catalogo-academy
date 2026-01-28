@@ -311,7 +311,7 @@ const cursos = [
 {
   trilha: "Desenvolvimento de Software",
   subtrilha: "",
-  nome: "REST API",
+  nome: "API",
   descricao: "Explica conceitos e boas práticas para projetar e consumir APIs modernas e seguras.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -834,6 +834,7 @@ const cursos = [
 
 
 ];
+
 
 
 
