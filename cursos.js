@@ -409,40 +409,70 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5URGr1vWbKnguOAr11XX41s",
   duracaoMinutos: 0
 },
-  
 
-  
-{
-  trilha: "07 - CMMI",
-  subtrilha: "",
-  nome: "01 - CMMI BÁSICO",
-  descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
-  duracaoMinutos: 94
-},
-{
-  trilha: "07 - CMMI",
-  subtrilha: "",
-  nome: "02 - CMMI AVANÇADO",
-  descricao: "Versão aprofundada do CMMI.",
-  quantidadeAulas: 23,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
-  duracaoMinutos: 158
-},
+07 - CMMI GLOBAL: IMERSÃO NO MODELO  
+07 - CMMI GLOBAL: PLANO DE MELHORIAS  
+07 - CMMI GLOBAL: POLÍTICAS E DIRETRIZES
+07 - CMMI GLOBAL: FUNÇÕES DO GRUPO EPG
+
+
+07 - CMMI TEC: Areas de Prática do Modelo
+07 - CMMI TEC: Ciclo de Vida de Desenv.
 
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "03 - POLÍTICAS E DIRETRIZES",
+  nome: "01 - PLANO DE MELHORIAS",
+  descricao: "",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://youtu.be/wgqNBqqnz9U?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
+  duracaoMinutos: 4
+},
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "01 - PLANO DE MELHORIAS",
+  descricao: "",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://youtu.be/wgqNBqqnz9U?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
+  duracaoMinutos: 4
+},  
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "02 - POLÍTICAS E DIRETRIZES",
   descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
   quantidadeAulas: 11,
   status: "DISPONÍVEL",
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
   duracaoMinutos: 21
 },
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "03 - AÇÕES DO EPG",
+  descricao: "",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
+  duracaoMinutos: 3
+},
+
+ 
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "02 - CMMI AVANÇADO - ÁREAS DE PRÁTICA",
+  descricao: "",
+  quantidadeAulas: 23,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Xh2JM2bPJp3uPJUelrldJo",
+  duracaoMinutos: 158
+},
+
+
 
 
 // 08 - Infraestrutura
@@ -1045,6 +1075,7 @@ const cursos = [
 
 
 ];
+
 
 
 
