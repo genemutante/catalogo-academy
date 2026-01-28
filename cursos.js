@@ -399,7 +399,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "DevOps, Cloud e Infraestrutura",
+  trilha: "Desenvolvimento de Software",
   subtrilha: "",
   nome: "CLOUD",
   descricao: "Explica conceitos de computação em nuvem, tipos de serviço e quando escolher cada um para reduzir custos.",
@@ -834,6 +834,7 @@ const cursos = [
 
 
 ];
+
 
 
 
