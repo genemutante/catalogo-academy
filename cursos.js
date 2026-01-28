@@ -484,7 +484,7 @@ const cursos = [
 },
 
 {
-  trilha: "QA",
+  trilha: "04 - QA",
   subtrilha: "",
   nome: "INTRODUÇÃO À CARREIRA DE QA",
   descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
@@ -526,7 +526,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "ROBOT FRAMEWORK BÁSICO",
   descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
@@ -536,7 +536,7 @@ const cursos = [
   duracaoMinutos: 277
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "ROBOT FRAMEWORK - TESTES COM API",
   descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
@@ -546,7 +546,7 @@ const cursos = [
   duracaoMinutos: 83
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "ROBOT FRAMEWORK AVANÇADO",
   descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
@@ -556,7 +556,7 @@ const cursos = [
   duracaoMinutos: 255
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "ANALISTA DE TESTES x ANALISTA QA",
   descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
@@ -566,7 +566,7 @@ const cursos = [
   duracaoMinutos: 19
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
@@ -576,7 +576,7 @@ const cursos = [
   duracaoMinutos: 50
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "ENGENHARIA DE REQUISITOS",
   descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
@@ -586,7 +586,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "FERRAMENTAS DA QUALIDADE",
   descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
@@ -596,7 +596,7 @@ const cursos = [
   duracaoMinutos: 399
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "INTRODUÇÃO AO TESTE DE SOFTWARE",
   descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
@@ -606,7 +606,7 @@ const cursos = [
   duracaoMinutos: 179
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "MAPEAMENTO DE PROCESSOS",
   descricao: "Ensina a representar, analisar e melhorar processos com mapas claros, indicadores e responsabilidades.",
@@ -616,7 +616,7 @@ const cursos = [
   duracaoMinutos: 265
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "MASP & PDCA",
   descricao: "Apresenta métodos de resolução de problemas na prática: identificar causa raiz, agir e padronizar.",
@@ -626,7 +626,7 @@ const cursos = [
   duracaoMinutos: 195
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
@@ -636,7 +636,7 @@ const cursos = [
   duracaoMinutos: 284
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA WHITE BELT",
   descricao: "Apresenta fundamentos do Six Sigma e quando aplicar para ganhos rápidos em processos.",
@@ -646,7 +646,7 @@ const cursos = [
   duracaoMinutos: 165
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA YELLOW BELT",
   descricao: "Capacita iniciantes a participar de projetos de melhoria com conceitos e ferramentas essenciais.",
@@ -656,7 +656,7 @@ const cursos = [
   duracaoMinutos: 294
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA GREEN BELT",
   descricao: "Forma especialistas em melhoria contínua com ferramentas estatísticas para redução de variação e defeitos.",
@@ -666,7 +666,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "CMMI BÁSICO",
   descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
@@ -676,7 +676,7 @@ const cursos = [
   duracaoMinutos: 94
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "CMMI AVANÇADO",
   descricao: "Versão aprofundada do CMMI.",
@@ -686,7 +686,7 @@ const cursos = [
   duracaoMinutos: 158
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "COBIT 2019",
   descricao: "Apresenta o framework de governança que alinha TI aos objetivos do negócio e mede desempenho de processos.",
@@ -696,7 +696,7 @@ const cursos = [
   duracaoMinutos: 276
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
   descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
@@ -706,7 +706,7 @@ const cursos = [
   duracaoMinutos: 55
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "INTRODUÇÃO AO LEAN",
   descricao: "Apresenta o pensamento enxuto para eliminar desperdícios e melhorar fluxo em áreas técnicas e administrativas.",
@@ -716,7 +716,7 @@ const cursos = [
   duracaoMinutos: 147
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "ITIL - CARREIRAS",
   descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
@@ -726,7 +726,7 @@ const cursos = [
   duracaoMinutos: 112
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "ITIL - OVERVIEW",
   descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
@@ -736,7 +736,7 @@ const cursos = [
   duracaoMinutos: 37
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "ITIL 4 FOUNDATION",
   descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
@@ -746,7 +746,7 @@ const cursos = [
   duracaoMinutos: 188
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "MINI CURSO CHECKLIST DO GESTOR",
   descricao: "Apresenta um checklist prático para líderes acompanharem rotinas, qualidade e resultados da equipe.",
@@ -756,7 +756,7 @@ const cursos = [
   duracaoMinutos: 5
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "NORMA ISO 20000",
   descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
@@ -766,7 +766,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "NORMA ISO 27001",
   descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
@@ -776,7 +776,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "NORMA ISO 42001",
   descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
@@ -786,7 +786,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "Portal de Processos Edesoft",
   descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
@@ -796,7 +796,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Processos e Melhoria Contínua",
+  trilha: "04 - QA",
   subtrilha: "Governança e Melhoria Contínua",
   nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
   descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
@@ -841,6 +841,7 @@ const cursos = [
 
 
 ];
+
 
 
 
