@@ -330,7 +330,7 @@ const cursos = [
   duracaoMinutos: 47
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
   descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
@@ -340,7 +340,7 @@ const cursos = [
   duracaoMinutos: 55
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "ITIL - OVERVIEW",
   descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
@@ -350,7 +350,7 @@ const cursos = [
   duracaoMinutos: 37
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "ITIL - CARREIRAS",
   descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
@@ -360,7 +360,7 @@ const cursos = [
   duracaoMinutos: 112
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "ITIL 4 FOUNDATION",
   descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
@@ -370,7 +370,7 @@ const cursos = [
   duracaoMinutos: 188
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   nome: "COBIT 2019",
   descricao: "Apresenta o framework de governança que alinha TI aos objetivos do negócio e mede desempenho de processos.",
   quantidadeAulas: 8,
@@ -380,7 +380,7 @@ const cursos = [
 },
 
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "NORMA ISO 20000",
   descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
@@ -390,7 +390,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "NORMA ISO 27001",
   descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
@@ -400,7 +400,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "NORMA ISO 42001",
   descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
@@ -444,7 +444,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "06 - GOVERNANÇA",
+  trilha: "06 - Governança",
   subtrilha: "",
   nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
   descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
@@ -924,6 +924,7 @@ const cursos = [
 
 
 ];
+
 
 
 
