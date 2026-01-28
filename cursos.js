@@ -322,7 +322,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
+  nome: "01 - CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
   descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -332,7 +332,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+  nome: "02 - GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
   descricao: "Explica princípios de governança de TI para decisões seguras, controles claros e conformidade regulatória.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -342,7 +342,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "ITIL - OVERVIEW",
+  nome: "03 - ITIL - OVERVIEW",
   descricao: "Apresenta a visão geral do ITIL e como ele ajuda a organizar serviços de TI orientados ao cliente.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -352,7 +352,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "ITIL - CARREIRAS",
+  nome: "04 - ITIL - CARREIRAS",
   descricao: "Descreve trilhas profissionais dentro das práticas ITIL e onde cada perfil pode atuar em serviços de TI.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -362,7 +362,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "ITIL 4 FOUNDATION",
+  nome: "05 - ITIL 4 FOUNDATION",
   descricao: "Prepara para a certificação oficial, cobrindo conceitos, práticas e termos essenciais do ITIL 4.",
   quantidadeAulas: 4,
   status: "DISPONÍVEL",
@@ -371,7 +371,7 @@ const cursos = [
 },
 {
   trilha: "06 - Governança",
-  nome: "COBIT 2019",
+  nome: "06 - COBIT 2019",
   descricao: "Apresenta o framework de governança que alinha TI aos objetivos do negócio e mede desempenho de processos.",
   quantidadeAulas: 8,
   status: "DISPONÍVEL",
@@ -382,7 +382,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "NORMA ISO 20000",
+  nome: "07 - NORMA ISO 20000",
   descricao: "Explica requisitos e boas práticas para gerenciar serviços de TI conforme a ISO/IEC 20000.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -392,7 +392,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "NORMA ISO 27001",
+  nome: "08 - NORMA ISO 27001",
   descricao: "Apresenta controles e gestão de riscos de segurança da informação segundo a ISO/IEC 27001.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -402,7 +402,7 @@ const cursos = [
 {
   trilha: "06 - Governança",
   subtrilha: "",
-  nome: "NORMA ISO 42001",
+  nome: "09 - NORMA ISO 42001",
   descricao: "Introduz diretrizes de gestão de ativos e sustentabilidade conforme a ISO 42001 no contexto empresarial.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -924,6 +924,7 @@ const cursos = [
 
 
 ];
+
 
 
 
