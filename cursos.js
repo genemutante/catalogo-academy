@@ -169,9 +169,9 @@ const cursos = [
   duracaoMinutos: 1605
 },
 {
-  trilha: "Desenvolvimento de Software",
+  trilha: "Outsourcing",
   subtrilha: "",
-  nome: "ALGORÍTIMO",
+  nome: "LÓGICA DE PROGRAMAÇÃO",
   descricao: "Apresenta a lógica de programação para resolver problemas passo a passo, base de qualquer linguagem e raciocínio computacional.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -369,7 +369,7 @@ const cursos = [
   duracaoMinutos: 48
 },
 {
-  trilha: "Desenvolvimento Pessoal e Estratégico",
+  trilha: "Desenvolvimento Pessoal",
   subtrilha: "",
   nome: "MICROBOOKS",
   descricao: "Usa o formato “microbook” para absorver rapidamente conteúdo curto e direto sobre assuntos essenciais rapidamente.",
@@ -449,7 +449,7 @@ const cursos = [
   duracaoMinutos: 228
 },
 {
-  trilha: "Fundamentos Corporativos",
+  trilha: "Outsourcing",
   subtrilha: "",
   nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
   descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
@@ -469,7 +469,7 @@ const cursos = [
   duracaoMinutos: 60
 },
 {
-  trilha: "Fundamentos Corporativos",
+  trilha: "Outsourcing",
   subtrilha: "",
   nome: "LOGÍSTICA RODOVIÁRIA",
   descricao: "Apresenta fundamentos do transporte de cargas, etapas, documentos e desafios de operação logística.",
@@ -499,7 +499,7 @@ const cursos = [
   duracaoMinutos: 233
 },
 {
-  trilha: "Gestão e Liderança",
+  trilha: "Outsourcing",
   subtrilha: "",
   nome: "GESTÃO ÁGIL DE PROJETOS COM SCRUM",
   descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
@@ -834,5 +834,6 @@ const cursos = [
 
 
 ];
+
 
 
