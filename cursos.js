@@ -194,39 +194,29 @@ const cursos = [
 
 
 
-  // 05 - Ferramentas Digitais  
+  // 05 - Ferramentas  
 {
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "MINITAB",
-  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
-  quantidadeAulas: 5,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
-  duracaoMinutos: 232
+  nome: "AZURE DEVOPS",
+  descricao: "Ensina a gerenciar o ciclo de vida de aplicações, do planejamento ágil à implantação automatizada (CI/CD) utilizando a plataforma Azure.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
 },
 {
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "POWER BI BÁSICO",
-  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
-  duracaoMinutos: 72
+  nome: "BANCO DE DADOS",
+  descricao: "Ensina a projetar e gerenciar bancos de dados, da modelagem relacional à execução de consultas otimizadas (SQL) para suporte a aplicações.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
 },
 {
-  trilha: "05 - Ferramentas Digitais",
-  subtrilha: "",
-  nome: "POWER BI AVANÇADO",
-  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
-  quantidadeAulas: 32,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
-  duracaoMinutos: 1605
-}, 
-{
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
   nome: "BIZAGI",
   descricao: "Introduz a modelagem de processos no Bizagi para mapear fluxos, descobrir gargalos e padronizar rotinas.",
@@ -236,7 +226,7 @@ const cursos = [
   duracaoMinutos: 228
 },
 {
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
   nome: "CLICKUP",
   descricao: "Apresenta o ClickUp para organizar tarefas, sprints e projetos, dando visibilidade de prazos e responsáveis.",
@@ -246,7 +236,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
   nome: "FIGMA",
   descricao: "Ensina a prototipar telas e fluxos no Figma para validar ideias com usuários antes do desenvolvimento.",
@@ -255,9 +245,41 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VgVU56741SAxwfS-30t1Uy",
   duracaoMinutos: 233
 },
+  
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "MINITAB",
+  descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
+  quantidadeAulas: 5,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5WKlxdbxVYjD-OAyzQx7Uod",
+  duracaoMinutos: 232
+},
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "POWER BI BÁSICO",
+  descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5X_mSDY240MhPbBp3vyfUZc",
+  duracaoMinutos: 72
+},
+{
+  trilha: "05 - Ferramentas",
+  subtrilha: "",
+  nome: "POWER BI AVANÇADO",
+  descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
+  quantidadeAulas: 32,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
+  duracaoMinutos: 1605
+}, 
+
 
 {
-  trilha: "05 - Ferramentas Digitais",
+  trilha: "05 - Ferramentas",
   subtrilha: "",
   nome: "TRELLO",
   descricao: "Ensina a organizar tarefas e projetos no Trello usando quadros, listas, cartões e checklists.",
@@ -862,6 +884,7 @@ const cursos = [
 
 
 ];
+
 
 
 
