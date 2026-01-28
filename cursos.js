@@ -69,7 +69,7 @@ const cursos = [
 {
   trilha: "03 - Outsourcing",
   subtrilha: "",
-  nome: "LOGÍSTICA RODOVIÁRIA",
+  nome: "01 - LOGÍSTICA RODOVIÁRIA",
   descricao: "Apresenta fundamentos do transporte de cargas, etapas, documentos e desafios de operação logística.",
   quantidadeAulas: 3,
   status: "DISPONÍVEL",
@@ -198,7 +198,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "AZURE DEVOPS",
+  nome: "01 - AZURE DEVOPS",
   descricao: "Ensina a gerenciar o ciclo de vida de aplicações, do planejamento ágil à implantação automatizada (CI/CD) utilizando a plataforma Azure.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -208,7 +208,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "BANCO DE DADOS",
+  nome: "02 - BANCO DE DADOS",
   descricao: "Ensina a projetar e gerenciar bancos de dados, da modelagem relacional à execução de consultas otimizadas (SQL) para suporte a aplicações.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -218,7 +218,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "BIZAGI",
+  nome: "03 - BIZAGI",
   descricao: "Introduz a modelagem de processos no Bizagi para mapear fluxos, descobrir gargalos e padronizar rotinas.",
   quantidadeAulas: 4,
   status: "DISPONÍVEL",
@@ -228,7 +228,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "CLICKUP",
+  nome: "04 - CLICKUP",
   descricao: "Apresenta o ClickUp para organizar tarefas, sprints e projetos, dando visibilidade de prazos e responsáveis.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -238,7 +238,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "FIGMA",
+  nome: "05 - FIGMA",
   descricao: "Ensina a prototipar telas e fluxos no Figma para validar ideias com usuários antes do desenvolvimento.",
   quantidadeAulas: 4,
   status: "DISPONÍVEL",
@@ -248,7 +248,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "GIT",
+  nome: "06 - GIT",
   descricao: "Ensina a controlar o versionamento de código, do registro de alterações à gestão de branches e colaboração em equipe utilizando Git.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -258,7 +258,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "MINITAB",
+  nome: "07 - MINITAB",
   descricao: "Ensina o software estatístico para análises, gráficos e controle de processos na indústria e serviços.",
   quantidadeAulas: 5,
   status: "DISPONÍVEL",
@@ -268,7 +268,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "PACOTE OFFICE",
+  nome: "08 - PACOTE OFFICE",
   descricao: "Ensina a dominar as ferramentas de produtividade, da edição de documentos e gestão de planilhas à criação de apresentações profissionais.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -278,7 +278,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "PHOTOSHOP",
+  nome: "09 - PHOTOSHOP",
   descricao: "Ensina a editar e manipular imagens digitais, do retoque fotográfico e correção de cores à criação de composições visuais profissionais.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -288,7 +288,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "POWER BI BÁSICO",
+  nome: "10 - POWER BI BÁSICO",
   descricao: "Ensina a criar relatórios e dashboards no Power BI, do zero até a publicação segura.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
@@ -298,7 +298,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "POWER BI AVANÇADO",
+  nome: "11 - POWER BI AVANÇADO",
   descricao: "Aprofunda análises, DAX e modelos de dados avançados para dashboards corporativos eficientes.",
   quantidadeAulas: 32,
   status: "DISPONÍVEL",
@@ -308,7 +308,7 @@ const cursos = [
 {
   trilha: "05 - Ferramentas",
   subtrilha: "",
-  nome: "TRELLO",
+  nome: "12 - TRELLO",
   descricao: "Ensina a organizar tarefas e projetos no Trello usando quadros, listas, cartões e checklists.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -415,7 +415,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "CMMI BÁSICO",
+  nome: "01 - CMMI BÁSICO",
   descricao: "Mostra como a maturidade de processos melhora previsibilidade, qualidade e gestão em empresas de software.",
   quantidadeAulas: 5,
   status: "DISPONÍVEL",
@@ -425,7 +425,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "CMMI AVANÇADO",
+  nome: "02 - CMMI AVANÇADO",
   descricao: "Versão aprofundada do CMMI.",
   quantidadeAulas: 23,
   status: "DISPONÍVEL",
@@ -436,7 +436,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "POLÍTICAS E DIRETRIZES",
+  nome: "03 - POLÍTICAS E DIRETRIZES",
   descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
   quantidadeAulas: 64,
   status: "EM DESENVOLVIMENTO",
@@ -449,7 +449,7 @@ const cursos = [
   {
   trilha: "08 - Infraestrutura",
   subtrilha: "",
-  nome: "HARDWARE/REDES",
+  nome: "01 - HARDWARE/REDES",
   descricao: "Capacita o colaborador a entender a configuração e manutenção de hardware e redes, garantindo a estabilidade e o bom funcionamento da infraestrutura de TI.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -462,7 +462,7 @@ const cursos = [
   {
   trilha: "09 - Marketing",
   subtrilha: "",
-  nome: "MÍDIAS SOCIAIS",
+  nome: "01 - MÍDIAS SOCIAIS",
   descricao: "Ensina estratégias e ferramentas para gerenciar redes sociais, ajudando o colaborador a melhorar a presença online e aumentar o engajamento digital da empresa.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -475,7 +475,7 @@ const cursos = [
   {
   trilha: "10 - Comercial",
   subtrilha: "",
-  nome: "CURSO DE VENDAS",
+  nome: "01 - CURSO DE VENDAS",
   descricao: "Foca em técnicas de vendas, preparando o colaborador para interagir com clientes de forma assertiva, contribuindo para o aumento de receitas e expansão da base de clientes.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -488,7 +488,7 @@ const cursos = [
   {
   trilha: "11 - Gestão",
   subtrilha: "",
-  nome: "DEPARTAMENTO PESSOAL",
+  nome: "01 - DEPARTAMENTO PESSOAL",
   descricao: "Fornece as habilidades necessárias para lidar com processos de administração de pessoal, assegurando a conformidade com as políticas e o bom funcionamento da área de RH.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -498,7 +498,7 @@ const cursos = [
   {
   trilha: "11 - Gestão",
   subtrilha: "",
-  nome: "FINANCEIRA",
+  nome: "02 - FINANCEIRA",
   descricao: "Ensina conceitos e práticas de gestão financeira, capacitando o colaborador a tomar decisões estratégicas e otimizar os recursos financeiros da organização.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -508,7 +508,7 @@ const cursos = [
   {
   trilha: "11 - Gestão",
   subtrilha: "",
-  nome: "PESSOAS",
+  nome: "03 - PESSOAS",
   descricao: "Desenvolve habilidades de liderança e gestão de pessoas, ajudando o colaborador a gerenciar equipes com eficiência e promover um ambiente de trabalho colaborativo.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -518,7 +518,7 @@ const cursos = [
   {
   trilha: "11 - Gestão",
   subtrilha: "",
-  nome: "PROCESSOS",
+  nome: "04 - PROCESSOS",
   descricao: "Capacita o colaborador a mapear, documentar e otimizar processos internos, melhorando a eficiência e alinhando as operações aos objetivos estratégicos.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -528,7 +528,7 @@ const cursos = [
   {
   trilha: "11 - Gestão",
   subtrilha: "",
-  nome: "PROJETOS",
+  nome: "05 - PROJETOS",
   descricao: "Ensina metodologias e práticas de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos de forma eficaz.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -1010,6 +1010,7 @@ const cursos = [
 
 
 ];
+
 
 
 
