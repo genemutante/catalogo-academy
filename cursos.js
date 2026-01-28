@@ -438,10 +438,10 @@ const cursos = [
   subtrilha: "",
   nome: "03 - POLÍTICAS E DIRETRIZES",
   descricao: "Orienta como navegar, consultar e manter o Portal de Processos da Edesoft: normas, papéis, fluxos, modelos e como propor melhorias.",
-  quantidadeAulas: 64,
-  status: "EM DESENVOLVIMENTO",
+  quantidadeAulas: 11,
+  status: "DISPONÍVEL",
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
-  duracaoMinutos: 0
+  duracaoMinutos: 21
 },
 
 
@@ -1045,6 +1045,7 @@ const cursos = [
 
 
 ];
+
 
 
 
