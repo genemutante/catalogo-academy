@@ -446,7 +446,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "02 - CICLO DE VIDA DE DESENV.",
+  nome: "04 - CICLO DE VIDA DE DESENV.",
   descricao: "Ensina o ciclo de vida de desenvolvimento conforme o CMMI, ajudando o colaborador a implementar melhorias contínuas em projetos.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -456,7 +456,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "02 - CMMI BÁSICO - IMERSÃO NO MODELO",
+  nome: "05 - CMMI BÁSICO - IMERSÃO NO MODELO",
   descricao: "Oferece uma imersão no modelo CMMI, capacitando o colaborador a entender profundamente suas práticas e benefícios.",
   quantidadeAulas: 0,
   status: "BACKLOG",
@@ -466,7 +466,7 @@ const cursos = [
 {
   trilha: "07 - CMMI",
   subtrilha: "",
-  nome: "02 - CMMI AVANÇADO - ÁREAS DE PRÁTICA",
+  nome: "06 - CMMI AVANÇADO - ÁREAS DE PRÁTICA",
   descricao: "",
   quantidadeAulas: 23,
   status: "DISPONÍVEL",
@@ -1075,6 +1075,7 @@ const cursos = [
 
 
 ];
+
 
 
 
