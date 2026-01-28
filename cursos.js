@@ -683,7 +683,7 @@ const cursos = [
   status: "BACKLOG",
   link: "",
   duracaoMinutos: 0
-}
+},
 
 // 20 - IA
 {
@@ -885,6 +885,7 @@ const cursos = [
 
 
 ];
+
 
 
 
