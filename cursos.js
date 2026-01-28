@@ -586,9 +586,9 @@ const cursos = [
   
 
 
-// 17 - PROCESSOS
+// 15 - PROCESSOS
   {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "MAPEAMENTO DE PROCESSOS",
   descricao: "Ensina a representar, analisar e melhorar processos com mapas claros, indicadores e responsabilidades.",
@@ -598,7 +598,7 @@ const cursos = [
   duracaoMinutos: 265
 },
 {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "MASP & PDCA",
   descricao: "Apresenta métodos de resolução de problemas na prática: identificar causa raiz, agir e padronizar.",
@@ -609,7 +609,7 @@ const cursos = [
 },
 
 {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA WHITE BELT",
   descricao: "Apresenta fundamentos do Six Sigma e quando aplicar para ganhos rápidos em processos.",
@@ -619,7 +619,7 @@ const cursos = [
   duracaoMinutos: 165
 },
 {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA YELLOW BELT",
   descricao: "Capacita iniciantes a participar de projetos de melhoria com conceitos e ferramentas essenciais.",
@@ -629,7 +629,7 @@ const cursos = [
   duracaoMinutos: 294
 },
 {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "Engenharia de Requisitos e Qualidade",
   nome: "SIX SIGMA GREEN BELT",
   descricao: "Forma especialistas em melhoria contínua com ferramentas estatísticas para redução de variação e defeitos.",
@@ -640,7 +640,7 @@ const cursos = [
 },
 
 {
-  trilha: "17 - PROCESSOS",
+  trilha: "15 - PROCESSOS",
   subtrilha: "",
   nome: "INTRODUÇÃO AO LEAN",
   descricao: "Apresenta o pensamento enxuto para eliminar desperdícios e melhorar fluxo em áreas técnicas e administrativas.",
@@ -1054,6 +1054,7 @@ const cursos = [
 
 
 ];
+
 
 
 
