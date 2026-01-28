@@ -1,7 +1,7 @@
 // Base de cursos — copie daqui e vá ampliando com os dados da planilha
 const cursos = [
 
-  // Exemplos adicionais (você pode apagar se quiser deixar só a planilha)
+  // 01 - Onboarding
 {
   trilha: "01 - Onboarding",
   subtrilha: "",
@@ -33,6 +33,72 @@ const cursos = [
   duracaoMinutos: 5
 },
 
+  // 02 - Desenvolvimento Pessoal
+{
+  trilha: "02 - Desenvolvimento Pessoal",
+  subtrilha: "",
+  nome: "METODOLOGIA DISC",
+  descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Ut5O15XaP7cF1LCtW2ZmBt",
+  duracaoMinutos: 48
+},
+{
+  trilha: "02 - Desenvolvimento Pessoal",
+  subtrilha: "",
+  nome: "MICROBOOKS",
+  descricao: "Usa o formato “microbook” para absorver rapidamente conteúdo curto e direto sobre assuntos essenciais rapidamente.",
+  quantidadeAulas: 50,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W6wcx1fylTB2yBBvnCIz_K",
+  duracaoMinutos: 703
+},
+
+//03 - Outsourcing
+{
+  trilha: "Outsourcing",
+  subtrilha: "",
+  nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
+  descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XRDInGzi0f7j1W5CSj2Qpa",
+  duracaoMinutos: 47
+},
+{
+  trilha: "Outsourcing",
+  subtrilha: "",
+  nome: "FRAMEWORK SCRUM",
+  descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UNg8ksTTNwzEz7GqDfK-c1",
+  duracaoMinutos: 0
+},
+{
+  trilha: "03 - Outsourcing",
+  subtrilha: "",
+  nome: "LÓGICA DE PROGRAMAÇÃO",
+  descricao: "Apresenta a lógica de programação para resolver problemas passo a passo, base de qualquer linguagem e raciocínio computacional.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VfuBoZwA3nqiKBjxSYQjug",
+  duracaoMinutos: 0
+},
+
+{
+  trilha: "03 - Outsourcing",
+  subtrilha: "",
+  nome: "LOGÍSTICA RODOVIÁRIA",
+  descricao: "Apresenta fundamentos do transporte de cargas, etapas, documentos e desafios de operação logística.",
+  quantidadeAulas: 3,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V6HBPw_r817YUb_-T4NXcC",
+  duracaoMinutos: 125
+},
+
+  
 
 // Inteligência Artificial
 {
@@ -164,16 +230,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XpCm-PJHaTuIGZNZ4l_aog",
   duracaoMinutos: 1605
 },
-{
-  trilha: "Outsourcing",
-  subtrilha: "",
-  nome: "LÓGICA DE PROGRAMAÇÃO",
-  descricao: "Apresenta a lógica de programação para resolver problemas passo a passo, base de qualquer linguagem e raciocínio computacional.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VfuBoZwA3nqiKBjxSYQjug",
-  duracaoMinutos: 0
-},
+
 {
   trilha: "18 - Desenvolvimento",
   subtrilha: "",
@@ -354,26 +411,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UxOytlB_EZCiYdqqU1K5vd",
   duracaoMinutos: 0
 },
-{
-  trilha: "02 - Desenvolvimento Pessoal",
-  subtrilha: "",
-  nome: "METODOLOGIA DISC",
-  descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Ut5O15XaP7cF1LCtW2ZmBt",
-  duracaoMinutos: 48
-},
-{
-  trilha: "02 - Desenvolvimento Pessoal",
-  subtrilha: "",
-  nome: "MICROBOOKS",
-  descricao: "Usa o formato “microbook” para absorver rapidamente conteúdo curto e direto sobre assuntos essenciais rapidamente.",
-  quantidadeAulas: 50,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W6wcx1fylTB2yBBvnCIz_K",
-  duracaoMinutos: 703
-},
+
 {
   trilha: "18 - Desenvolvimento",
   subtrilha: "",
@@ -444,18 +482,9 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VwZAFmQ4Nf33qZr-nCgVav",
   duracaoMinutos: 228
 },
+
 {
-  trilha: "Outsourcing",
-  subtrilha: "",
-  nome: "CENTRAL DE SERVIÇOS DE TI - SERVICE DESK",
-  descricao: "Explica a função do Service Desk e como registrar, priorizar e resolver chamados com foco no usuário.",
-  quantidadeAulas: 1,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XRDInGzi0f7j1W5CSj2Qpa",
-  duracaoMinutos: 47
-},
-{
-  trilha: "Fundamentos Corporativos",
+  trilha: "QA",
   subtrilha: "",
   nome: "INTRODUÇÃO À CARREIRA DE QA",
   descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
@@ -464,16 +493,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XbNrKTiW_mVfnenHILB6H2",
   duracaoMinutos: 60
 },
-{
-  trilha: "Outsourcing",
-  subtrilha: "",
-  nome: "LOGÍSTICA RODOVIÁRIA",
-  descricao: "Apresenta fundamentos do transporte de cargas, etapas, documentos e desafios de operação logística.",
-  quantidadeAulas: 3,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5V6HBPw_r817YUb_-T4NXcC",
-  duracaoMinutos: 125
-},
+
 {
   trilha: "Gestão e Liderança",
   subtrilha: "",
@@ -494,16 +514,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VgVU56741SAxwfS-30t1Uy",
   duracaoMinutos: 233
 },
-{
-  trilha: "Outsourcing",
-  subtrilha: "",
-  nome: "FRAMEWORK SCRUM",
-  descricao: "Mostra como planejar, priorizar e entregar valor contínuo com Scrum e práticas ágeis no dia a dia.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UNg8ksTTNwzEz7GqDfK-c1",
-  duracaoMinutos: 0
-},
+
 {
   trilha: "Gestão e Liderança",
   subtrilha: "",
@@ -795,7 +806,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Automação",
+  trilha: "19 - Automação",
   subtrilha: "",
   nome: "Básico de Make (Integromat)",
   descricao: "Ensina a criar automações visuais (no-code) conectando apps por gatilhos, webhooks e cenários; agendar rotinas, tratar erros e monitorar execuções.",
@@ -805,7 +816,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Automação",
+  trilha: "19 - Automação",
   subtrilha: "",
   nome: "Básico de n8n",
   descricao: "Apresenta o n8n para orquestrar fluxos de automação com nós e credenciais; integra APIs, webhooks e filas, com logs, retries e opção de self-host.",
@@ -815,7 +826,7 @@ const cursos = [
   duracaoMinutos: 370
 },
 {
-  trilha: "Automação",
+  trilha: "19 - Automação",
   subtrilha: "",
   nome: "Básico de Manychat",
   descricao: "Mostra como construir chatbots e automações em WhatsApp/Instagram/Facebook para atendimento e marketing, com fluxos, tags, segmentação e integrações.",
@@ -830,6 +841,7 @@ const cursos = [
 
 
 ];
+
 
 
 
