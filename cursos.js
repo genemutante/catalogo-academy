@@ -594,6 +594,17 @@ const cursos = [
   link: "",
   duracaoMinutos: 0
 }, 
+
+{
+  trilha: "14 - Engenharia de Dados",
+  subtrilha: "",
+  nome: "ESTATÍSTICA BÁSICA",
+  descricao: "Apresenta noções de probabilidade e análise de dados para interpretar resultados e apoiar decisões.",
+  quantidadeAulas: 4,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UGx6AwDlXwemCYG4QcjVc7",
+  duracaoMinutos: 155
+},
   
 
 // 15 - PROCESSOS
@@ -1020,33 +1031,6 @@ const cursos = [
 
 
 
-
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "ENGENHARIA DE DADOS",
-  descricao: "Introduz conceitos e ferramentas para coletar, tratar e analisar dados em escala para apoiar decisões.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5VJcKKAHkSSteltuBLuq9vE",
-  duracaoMinutos: 0
-},
-{
-  trilha: "Dados",
-  subtrilha: "",
-  nome: "ESTATÍSTICA BÁSICA",
-  descricao: "Apresenta noções de probabilidade e análise de dados para interpretar resultados e apoiar decisões.",
-  quantidadeAulas: 4,
-  status: "DISPONÍVEL",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UGx6AwDlXwemCYG4QcjVc7",
-  duracaoMinutos: 155
-},
-
-  
-
-
-
-
 {
   trilha: "99 - DIVERSOS",
   subtrilha: "",
@@ -1061,6 +1045,7 @@ const cursos = [
 
 
 ];
+
 
 
 
