@@ -37,8 +37,8 @@ const cursos = [
 {
   trilha: "02 - Desenvolvimento Pessoal",
   subtrilha: "",
-  nome: "METODOLOGIA DISC",
-  descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
+  nome: "01 - LEADERSHIP",
+  descricao: "Desenvolve habilidades de liderança, ajudando o colaborador a se tornar um líder eficaz, capaz de influenciar e motivar equipes com confiança e clareza.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Ut5O15XaP7cF1LCtW2ZmBt",
@@ -47,12 +47,22 @@ const cursos = [
 {
   trilha: "02 - Desenvolvimento Pessoal",
   subtrilha: "",
-  nome: "MICROBOOKS",
+  nome: "02 - MICROBOOKS",
   descricao: "Usa o formato “microbook” para absorver rapidamente conteúdo curto e direto sobre assuntos essenciais rapidamente.",
   quantidadeAulas: 50,
   status: "DISPONÍVEL",
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5W6wcx1fylTB2yBBvnCIz_K",
   duracaoMinutos: 703
+},
+{
+  trilha: "02 - Desenvolvimento Pessoal",
+  subtrilha: "",
+  nome: "03 - METODOLOGIA DISC",
+  descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
+  quantidadeAulas: 1,
+  status: "DISPONÍVEL",
+  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Ut5O15XaP7cF1LCtW2ZmBt",
+  duracaoMinutos: 48
 },
 
 //03 - Outsourcing
@@ -883,6 +893,7 @@ const cursos = [
 
 
 ];
+
 
 
 
