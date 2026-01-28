@@ -538,8 +538,52 @@ const cursos = [
 
 
 
+// 12 - RH
+  {
+  trilha: "12 - RH",
+  subtrilha: "",
+  nome: "01 - ADMINISTRAÇÃO DE CARGOS E SALÁRIOS",
+  descricao: "Capacita o colaborador a administrar planos de cargos e salários, garantindo uma estrutura salarial justa e alinhada às práticas de mercado.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+  {
+  trilha: "12 - RH",
+  subtrilha: "",
+  nome: "02 - RECRUTAMENTO E SELEÇÃO",
+  descricao: "Ensina técnicas de recrutamento e seleção, ajudando o colaborador a identificar e contratar talentos que se alinhem às necessidades da empresa.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
 
+  
+// 13 - Legislação
+{
+  trilha: "13 - Legislação",
+  subtrilha: "",
+  nome: "01 - LEIS TRABALHISTAS",
+  descricao: "Capacita o colaborador a entender e aplicar as leis trabalhistas, assegurando a conformidade com a legislação e a proteção dos direitos dos trabalhadores.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+{
+  trilha: "13 - Legislação",
+  subtrilha: "",
+  nome: "02 - LGPD",
+  descricao: "Ensina os princípios da LGPD, preparando o colaborador para lidar com dados pessoais de forma segura e conforme a legislação vigente.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
 
+  
 
 
 // 17 - PROCESSOS
@@ -1010,6 +1054,7 @@ const cursos = [
 
 
 ];
+
 
 
 
