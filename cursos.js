@@ -103,7 +103,7 @@ const cursos = [
 //04 - QA
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "01 - CUSTOS DA NÃO QUALIDADE",
   descricao: "Mostra como medir perdas causadas por falhas e retrabalho para justificar investimentos em qualidade.",
@@ -113,7 +113,7 @@ const cursos = [
   duracaoMinutos: 50
 },
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "02 - QUALIDADE DO INÍCIO AO FIM",
   descricao: "Mostra como construir qualidade desde o início até a entrega, integrando boas práticas em todo o ciclo.",
@@ -126,7 +126,7 @@ const cursos = [
 
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "03 - ANALISTA DE TESTES x ANALISTA QA",
   descricao: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável.",
@@ -137,7 +137,7 @@ const cursos = [
 },
   
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "04 - INTRODUÇÃO À CARREIRA DE QA",
   descricao: "Mostra caminhos e competências da carreira de Qualidade, do operacional ao estratégico, com trilhas de evolução.",
@@ -148,7 +148,7 @@ const cursos = [
 },  
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "05 - INTRODUÇÃO AO TESTE DE SOFTWARE",
   descricao: "Ensina fundamentos, tipos de testes e como planejar e executar testes que previnem defeitos.",
@@ -159,7 +159,7 @@ const cursos = [
 },
   
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "06 - ROBOT FRAMEWORK BÁSICO",
   descricao: "Ensina o básico do Robot Framework para automatizar testes sem complicar a manutenção.",
@@ -170,7 +170,7 @@ const cursos = [
 },
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "07 - ROBOT FRAMEWORK AVANÇADO",
   descricao: "Aprofunda boas práticas, arquitetura de testes e integração contínua com Robot Framework.",
@@ -180,7 +180,7 @@ const cursos = [
   duracaoMinutos: 255
 },
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "08 - ROBOT FRAMEWORK - TESTES COM API",
   descricao: "Foca em testes de APIs com Robot Framework, cobrindo autenticação, cenários e validação de respostas.",
@@ -192,7 +192,7 @@ const cursos = [
 
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "09 - FERRAMENTAS DA QUALIDADE",
   descricao: "Explora ferramentas clássicas da qualidade para identificar causas, padronizar processos e prevenir falhas.",
@@ -203,7 +203,7 @@ const cursos = [
 },
 
 {
-  trilha: "04 - QA",
+  trilha: "04 - Garantia da Qualidade",
   subtrilha: "",
   nome: "10 - ENGENHARIA DE REQUISITOS",
   descricao: "Explica como levantar, documentar e validar requisitos para construir software alinhado às necessidades.",
@@ -885,6 +885,7 @@ const cursos = [
 
 
 ];
+
 
 
 
