@@ -36,7 +36,7 @@ const cursos = [
 
 // Inteligência Artificial
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "01 - INTELIGÊNCIA ARTIFICIAL - OVERVIEW",
   descricao:
@@ -47,7 +47,7 @@ const cursos = [
   duracaoMinutos: 73
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "02 - LLMS",
   descricao:
@@ -58,7 +58,7 @@ const cursos = [
   duracaoMinutos: 98
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "03 - ENG. DE PROMPT - FUNDAMENTOS",
   descricao:
@@ -69,7 +69,7 @@ const cursos = [
   duracaoMinutos: 90
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "04 - ENG. DE PROMPT - CASOS DE USO",
   descricao:
@@ -80,7 +80,7 @@ const cursos = [
   duracaoMinutos: 160
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "05 - ENG. DE CONTEXTO - OVERVIEW",
   descricao:
@@ -91,7 +91,7 @@ const cursos = [
   duracaoMinutos: 20
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "06 - ASSISTENTES DE IA",
   descricao:
@@ -102,7 +102,7 @@ const cursos = [
   duracaoMinutos: 27
 },
 {
-  trilha: "Inteligência Artificial",
+  trilha: "20 - IA",
   subtrilha: "",
   nome: "07 - AGENTES DE IA",
   descricao:
@@ -112,10 +112,6 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5UU_AqX7FE6A8KpwQ9dwdkj",
   duracaoMinutos: 180
 },
-
-
-
-
 
 
 {
@@ -179,7 +175,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "CSS",
   descricao: "Ensina a estilizar páginas web para criar interfaces bonitas e responsivas que funcionam em diferentes telas.",
@@ -189,7 +185,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "DJANGO",
   descricao: "Apresenta o framework web em Python para criar aplicações seguras, escaláveis e produtivas.",
@@ -199,7 +195,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "FLASK",
   descricao: "Apresenta o microframework Python para APIs e aplicativos leves, com foco em simplicidade e velocidade.",
@@ -209,7 +205,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "HTML",
   descricao: "Apresenta a base da web para criar estruturas de páginas e conteúdo acessível e semântico.",
@@ -219,7 +215,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "JAVASCRIPT",
   descricao: "Ensina a linguagem que traz interatividade às páginas web e aos sistemas front-end modernos.",
@@ -229,7 +225,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "LÓGICA E ALGORITIMOS",
   descricao: "Desenvolve raciocínio lógico para resolver problemas, formular algoritmos e pensar de forma estruturada.",
@@ -239,7 +235,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "MOBX",
   descricao: "Apresenta a biblioteca de gerenciamento de estado reativo para aplicações JavaScript modernas.",
@@ -249,7 +245,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "NODEJS",
   descricao: "Ensina a plataforma JavaScript do lado do servidor para criar APIs rápidas e escaláveis.",
@@ -259,7 +255,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "ORM",
   descricao: "Explica mapeamento objeto-relacional para simplificar acesso a banco de dados em aplicações.",
@@ -269,7 +265,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "POO",
   descricao: "Apresenta Programação Orientada a Objetos: classes, herança, encapsulamento e polimorfismo com exemplos práticos.",
@@ -279,7 +275,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "PYTHON",
   descricao: "Apresenta a linguagem Python para automatizar tarefas, criar APIs e analisar dados de forma prática.",
@@ -289,7 +285,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "REACT",
   descricao: "Ensina o framework para criar interfaces reativas e componentes reutilizáveis em projetos web.",
@@ -299,7 +295,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "REDUX",
   descricao: "Apresenta o gerenciamento de estado previsível para aplicações React de médio e grande porte.",
@@ -309,7 +305,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "API",
   descricao: "Explica conceitos e boas práticas para projetar e consumir APIs modernas e seguras.",
@@ -319,7 +315,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "RESTFULL",
   descricao: "Apresenta princípios RESTful e como aplicá-los para integração simples e escalável entre sistemas.",
@@ -329,7 +325,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "ROADMAPS",
   descricao: "Mostra como planejar a evolução de produtos e carreiras com mapas claros de etapas e competências.",
@@ -339,7 +335,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "SQL",
   descricao: "Ensina a consultar, modelar e otimizar bancos de dados relacionais usando SQL na prática.",
@@ -349,7 +345,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "TYPESCRIPT",
   descricao: "Apresenta o TypeScript para trazer tipos ao JavaScript, aumentando segurança e produtividade no código.",
@@ -359,7 +355,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "Desenvolvimento Pessoal",
+  trilha: "02 - Desenvolvimento Pessoal",
   subtrilha: "",
   nome: "METODOLOGIA DISC",
   descricao: "Apresenta a ferramenta de perfis comportamentais para comunicação, liderança e trabalho em equipe.",
@@ -369,7 +365,7 @@ const cursos = [
   duracaoMinutos: 48
 },
 {
-  trilha: "Desenvolvimento Pessoal",
+  trilha: "02 - Desenvolvimento Pessoal",
   subtrilha: "",
   nome: "MICROBOOKS",
   descricao: "Usa o formato “microbook” para absorver rapidamente conteúdo curto e direto sobre assuntos essenciais rapidamente.",
@@ -379,7 +375,7 @@ const cursos = [
   duracaoMinutos: 703
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "AWS",
   descricao: "Mostra como usar a nuvem da Amazon para hospedar, escalar e proteger sistemas corporativos com boas práticas.",
@@ -389,7 +385,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "AZURE DEVOPS",
   descricao: "Ensina a planejar e automatizar entregas de software usando a plataforma DevOps da Microsoft no Azure.",
@@ -399,7 +395,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "CLOUD",
   descricao: "Explica conceitos de computação em nuvem, tipos de serviço e quando escolher cada um para reduzir custos.",
@@ -409,7 +405,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "DOCKER",
   descricao: "Ensina a empacotar e publicar aplicações em containers, facilitando implantação e padronização de ambientes.",
@@ -419,7 +415,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "GIT",
   descricao: "Ensina versionamento de código, branches e colaboração segura usando Git em equipes de desenvolvimento.",
@@ -429,7 +425,7 @@ const cursos = [
   duracaoMinutos: 0
 },
 {
-  trilha: "TI - Desenvolvimento",
+  trilha: "18 - Desenvolvimento",
   subtrilha: "",
   nome: "MENSAGERIA",
   descricao: "Explica troca de mensagens entre sistemas (fila, tópico, ACK), garantindo integração confiável.",
@@ -834,6 +830,7 @@ const cursos = [
 
 
 ];
+
 
 
 
