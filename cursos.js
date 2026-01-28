@@ -444,7 +444,102 @@ const cursos = [
   duracaoMinutos: 0
 },
 
-  
+
+// 08 - Infraestrutura
+  {
+  trilha: "08 - Infraestrutura",
+  subtrilha: "",
+  nome: "HARDWARE/REDES",
+  descricao: "Capacita o colaborador a entender a configuração e manutenção de hardware e redes, garantindo a estabilidade e o bom funcionamento da infraestrutura de TI.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+
+
+  // 09 - Marketing
+  {
+  trilha: "09 - Marketing",
+  subtrilha: "",
+  nome: "MÍDIAS SOCIAIS",
+  descricao: "Ensina estratégias e ferramentas para gerenciar redes sociais, ajudando o colaborador a melhorar a presença online e aumentar o engajamento digital da empresa.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+
+
+  // 10 - Comercial
+  {
+  trilha: "10 - Comercial",
+  subtrilha: "",
+  nome: "CURSO DE VENDAS",
+  descricao: "Foca em técnicas de vendas, preparando o colaborador para interagir com clientes de forma assertiva, contribuindo para o aumento de receitas e expansão da base de clientes.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},
+
+
+// 11 - Gestão 
+  {
+  trilha: "11 - Gestão",
+  subtrilha: "",
+  nome: "DEPARTAMENTO PESSOAL",
+  descricao: "Fornece as habilidades necessárias para lidar com processos de administração de pessoal, assegurando a conformidade com as políticas e o bom funcionamento da área de RH.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},
+  {
+  trilha: "11 - Gestão",
+  subtrilha: "",
+  nome: "FINANCEIRA",
+  descricao: "Ensina conceitos e práticas de gestão financeira, capacitando o colaborador a tomar decisões estratégicas e otimizar os recursos financeiros da organização.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},  
+  {
+  trilha: "11 - Gestão",
+  subtrilha: "",
+  nome: "PESSOAS",
+  descricao: "Desenvolve habilidades de liderança e gestão de pessoas, ajudando o colaborador a gerenciar equipes com eficiência e promover um ambiente de trabalho colaborativo.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},  
+  {
+  trilha: "11 - Gestão",
+  subtrilha: "",
+  nome: "PROCESSOS",
+  descricao: "Capacita o colaborador a mapear, documentar e otimizar processos internos, melhorando a eficiência e alinhando as operações aos objetivos estratégicos.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+},  
+  {
+  trilha: "11 - Gestão",
+  subtrilha: "",
+  nome: "PROJETOS",
+  descricao: "Ensina metodologias e práticas de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos de forma eficaz.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "",
+  duracaoMinutos: 0
+}, 
+
+
+
+
+
 
 
 // 17 - PROCESSOS
@@ -915,6 +1010,7 @@ const cursos = [
 
 
 ];
+
 
 
 
