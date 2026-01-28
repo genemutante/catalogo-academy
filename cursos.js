@@ -416,7 +416,7 @@ const cursos = [
   trilha: "07 - CMMI",
   subtrilha: "",
   nome: "01 - PLANO DE MELHORIAS",
-  descricao: "",
+  descricao: "Apresenta o plano de melhorias da Edesoft, baseado no modelo CMMI, mostrando como a empresa promove a evolução contínua de seus processos.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
   link: "https://youtu.be/wgqNBqqnz9U?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
@@ -436,7 +436,7 @@ const cursos = [
   trilha: "07 - CMMI",
   subtrilha: "",
   nome: "03 - AÇÕES DO EPG",
-  descricao: "",
+  descricao: "Explora as funções do Grupo EPG, detalhando o papel desse grupo na implementação e manutenção do modelo CMMI na organização.",
   quantidadeAulas: 1,
   status: "DISPONÍVEL",
   link: "https://youtu.be/oOZ-b4AZHTA?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
@@ -447,13 +447,22 @@ const cursos = [
   trilha: "07 - CMMI",
   subtrilha: "",
   nome: "02 - CICLO DE VIDA DE DESENV.",
-  descricao: "",
+  descricao: "Ensina o ciclo de vida de desenvolvimento conforme o CMMI, ajudando o colaborador a implementar melhorias contínuas em projetos.",
   quantidadeAulas: 0,
   status: "BACKLOG",
   link: "",
   duracaoMinutos: 0
 },
-
+{
+  trilha: "07 - CMMI",
+  subtrilha: "",
+  nome: "02 - CMMI BÁSICO - IMERSÃO NO MODELO",
+  descricao: "Oferece uma imersão no modelo CMMI, capacitando o colaborador a entender profundamente suas práticas e benefícios.",
+  quantidadeAulas: 0,
+  status: "BACKLOG",
+  link: "https://youtu.be/YZgvIPEiHHo?list=PLAb52Z2VRX5XjrU3yn-4CQYMUqY4O07qb",
+  duracaoMinutos: 33
+},
 {
   trilha: "07 - CMMI",
   subtrilha: "",
@@ -1066,6 +1075,7 @@ const cursos = [
 
 
 ];
+
 
 
 
