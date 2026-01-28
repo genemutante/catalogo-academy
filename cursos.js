@@ -443,16 +443,7 @@ const cursos = [
   link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5XowRPIV749TpVnOnFWiajx",
   duracaoMinutos: 0
 },
-{
-  trilha: "06 - Governança",
-  subtrilha: "",
-  nome: "TRANSFORMAÇÃO ÁGIL COM AGILESHIFT",
-  descricao: "Apresenta o AgileShift para transformar cultura e preparar equipes para mudanças rápidas e constantes.",
-  quantidadeAulas: 0,
-  status: "BACKLOG",
-  link: "https://www.youtube.com/playlist?list=PLAb52Z2VRX5Wrsm9eNTTwt61DUNCpXqbP",
-  duracaoMinutos: 0
-},
+
   
 
 
@@ -924,6 +915,7 @@ const cursos = [
 
 
 ];
+
 
 
 
